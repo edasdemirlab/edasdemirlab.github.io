@@ -106,7 +106,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Erdi Dasdemir (PhD)"
+  name             : "Erdi Dasdemir (Ph.D.)"
   avatar           : "/assets/images/erdifoto/ed-vesika3.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data and Optimization Scientist"
   location         : #"Turkey"

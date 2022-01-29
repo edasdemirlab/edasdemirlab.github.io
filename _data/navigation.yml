@@ -1,0 +1,42 @@
+# main links
+main:
+  - title: "Home"
+    titleTR: "Ana Sayfa"
+    description: "More about me"
+    url:  / #url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "Personal"
+    titleTR: "Hakkımda"
+    description: "More about me"
+    url:  /personal/ #url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "Projects"
+    titleTR: "Projeler"
+    url: /projects/
+  - title: "Posts"
+    titleTR: "Yazılar"
+    url: /postspage/
+
+  #- title: "Posts"
+  #  titleTR: "Yazılar"
+  #  url: /year-archive/
+
+
+#  - title: "Collections"
+  #  url: /collection-archive/
+  #- title: "Sitemap"
+  #  url: /sitemap/
+  #- title: "Quick-Start Guide"
+  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+
+quicklinks:
+  - title: Organizations I Belong To
+    children:
+      - title: "Hacettepe IE"
+        url: /docs/quick-start-guide/
+      - title: "METU IE"
+        url: /docs/structure/
+      - title: "UB ISE"
+        url: /docs/installation/
+      - title: "International Society on MCDM"
+        url: /docs/upgrading/
+      - title: "Quality Movement"
+        url: /docs/upgrading/

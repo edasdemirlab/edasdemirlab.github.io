@@ -1,4 +1,5 @@
 ---
+title: "Our New Paper in OMEGA is Now Available Online"
 layout: single
 author_profile: true
 read_time: true

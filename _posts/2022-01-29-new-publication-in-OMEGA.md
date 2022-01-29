@@ -10,11 +10,12 @@ show_date: true
 categories:
   - Publications
 tags:
-  - publication
   - OMEGA
-  - multi-objective
-  - optimization
-  - gurobi
+  - Publication
+  - Vehicle Route Planning
+  - Multi-objective
+  - Optimization
+  - Gurobi
   - R
 
 ---

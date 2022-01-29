@@ -13,7 +13,7 @@ main:
     url: /projects/
   - title: "Posts"
     titleTR: "Yazılar"
-    url: /postspage/
+    url: /year-archive/
 
   #- title: "Posts"
   #  titleTR: "Yazılar"

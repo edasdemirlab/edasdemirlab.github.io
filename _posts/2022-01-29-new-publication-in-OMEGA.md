@@ -1,14 +1,14 @@
 ---
-layout: single
-
 categories:
   - Publications
 tags:
-  - content
-  - css
-  - edge case
-  - lists
-  - markup
+  - publication
+  - OMEGA
+  - multi-objective
+  - optimization
+  - gurobi
+  - R
+
 ---
 
 Our latest paper  entitled "A multi-objective open vehicle routing problem with overbooking: Exact and heuristic solution approaches for an employee transportation problem" that was accepted for publication in the prestigious OMEGA - The International Journal of Management Science is now available online at [here](https://www.sciencedirect.com/science/article/pii/S0305048321001961#!)
@@ -16,6 +16,8 @@ Our latest paper  entitled "A multi-objective open vehicle routing problem with 
 We carried out this study with my colleagues at the Department of Industrial Engineering of Hacettepe University. I am very grateful to Professors Murat Caner Testik, Diclehan Tezcaner Öztürk, Ceren Tuncer Sakar, Guldal Guleryuz, and Ozlem Muge Testik for their collaboration.
 
 If you’re interested in learning more about "School/Employment Bus routing problem under scarce resources" this paper may fit well to your interests. I believe the paper has potential to trigger important developments in the field. There are many real-world applications such as air and school bus transportation where overbooking is an important consideration in seat planning. Additionally, there may be situations where the planned capacity must be less  than the actual seat capacity such as in the Covid-19 pandemic. I would like to thank the editors and reviewers of OMEGA for appreciating the value of this paper.
+
+This paper also interesting in terms of the extensive and efficient usage of analytics. More specifically, we program the all experiments using R programming language and solve the mathematical models using the GUROBI Optimizer 9.0 through R 3.5.3. All experiments were performed at the Center for Computational Research of University at Buffalo, on a Dell 32-core computer running Linux Centos 7.5.x with processor Intel Xeon Gold 6130 CPU, 32 x 2.10GHz and 192 GB usable RAM .
 
 ## Highlights
 

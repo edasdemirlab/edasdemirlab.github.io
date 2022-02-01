@@ -9,12 +9,20 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 
-gem "github-pages", group: :jekyll_plugins
 
+# This part will be changed when switching between local hosting and Github
 # To upgrade, run `bundle update`.
+# Activate for github hosting:
+gem "github-pages", group: :jekyll_plugins
+# dont forget to change theme to remote in _config.yml
 
-# gem "jekyll"
+# Activate for for local hosting:
+#gem "jekyll"
 #gem "minimal-mistakes-jekyll"
+
+
+
+# other gams that are always kept:
 gem "tzinfo"
 gem 'tzinfo-data'
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
@@ -35,5 +43,6 @@ group :jekyll_plugins do
   gem "jekyll-feed"
   gem "jemoji"
   gem "jekyll-include-cache"
-  gem "jekyll-algolia"
+  # gem "rouge"
+  # gem "jekyll-algolia"
 end

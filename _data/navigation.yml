@@ -27,6 +27,16 @@ main:
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
 
+projects:
+  - title: "Kalite Hareketi"
+    url: /kalitehareketi/
+  - title: "R for Everybody"
+    url: /rforeverybody/
+  - title: "Mathematical Optimization for Everybody"
+    url: /rforeverybody/
+
+
+
 quicklinks:
   - title: Organizations I Belong To
     children:

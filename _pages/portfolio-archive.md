@@ -5,5 +5,6 @@ permalink: /portfolio/
 collection: portfolio
 entries_layout: grid
 header:
-  teaser: ed-banner.png
+  teaser: \assets\images\erdifoto\ed-banner.png
 ---
+hey there

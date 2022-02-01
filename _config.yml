@@ -10,8 +10,8 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-#theme                  : "minimal-mistakes-jekyll"
-remote_theme           : "mmistakes/minimal-mistakes"
+#theme                  : "minimal-mistakes-jekyll" #activate for local hosting
+remote_theme           : "mmistakes/minimal-mistakes" #activate for github hosting
 minimal_mistakes_skin    : "contrast" #"dark" # "air", "aqua", "contrast", "default", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -20,14 +20,14 @@ title                    : "Dr. Dasdemir's Analytics Lab"
 title_separator          : "-"
 subtitle                 : # "Version 1.0" # site tagline that appears below site title in masthead
 name                     : "Erdi Dasdemir"
-description              : "A lab for data analytics and optimization."
-url                      : "http://edasdemirlab.github.io/" #"https://erdidasdemir.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : "A lab and blog for open source materials and tutorials on data analytics, programming and optimization."
+url                      : "https://www.erdidasdemir.com"  #"https://www.edasdemirlab.github.io" #"https://erdidasdemir.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "edasdemirlab/edasdemirlab.git.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png" #posta eklenen resim bulunamadiginda yedek teaser
+teaser                   : "/assets/images/ed-logo.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png" #posta eklenen resim bulunamadiginda yedek teaser
 logo                     : # "/assets/images/ed-logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-# breadcrumbs            : false # true, false (default)
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
@@ -84,7 +84,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : # Open Graph/Twitter default site image
+og_image                 : /assets/images/ed-logo-analytics.png # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -95,12 +95,13 @@ social:
     - "https://www.facebook.com/erdidas"
     - "https://instagram.com/erdidasdemirr"
     - "https://www.linkedin.com/in/erdidasdemir"
+    - "https://www.youtube.com/channel/UCelz8jQ2TuGDsm5ZS6MtxJQ"
 
 # Analytics
 analytics:
-  provider               : google # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               : google-universal # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          : "G-49DX68KWHF"
+    tracking_id          : "UA-217796095-1"
     anonymize_ip         : # true, false (default)
 
 
@@ -127,6 +128,9 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/erdi_dasdemir"
+    - label: "Youtube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/channel/UCelz8jQ2TuGDsm5ZS6MtxJQ"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/erdidasdemirr"
@@ -146,6 +150,9 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: https://twitter.com/erdi_dasdemir"
+    - label: "Youtube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/channel/UCelz8jQ2TuGDsm5ZS6MtxJQ"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: #"https://facebook.com/erdidas"

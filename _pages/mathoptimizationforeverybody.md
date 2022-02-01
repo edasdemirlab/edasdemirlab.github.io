@@ -1,6 +1,6 @@
 ---
 title: Mathematical Optimization for Everybody
-permalink: /mathoptimizationforeverybody/
+permalink: /optimizationforeverybody/
 layout: single
 # classes: wide
 ---

@@ -1,9 +1,9 @@
 ---
-title: Projects
-permalink: /projects/
+title: Kalite Hareketi
+permalink: /kalitehareketi/
 layout: single
 # classes: wide
 ---
 
 
-This page is under construction.
+"Kalite Hareketi" projesinin sayfası yapım aşamasındadır.

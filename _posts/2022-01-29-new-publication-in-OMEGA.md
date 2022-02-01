@@ -21,7 +21,6 @@ tags:
   - Gurobi
   - R
 
-#b ![Screenshot of Journal Paper Page](/assets/images/postimages/omega-bus.png){: .align-right} 
 ---
 
 

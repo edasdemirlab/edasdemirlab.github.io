@@ -23,7 +23,7 @@ tags:
 
 ---
 
-
+ ![Screenshot of Journal Paper Page](/assets/images/postimages/omega-bus.png){: .align-right} 
 
 Our latest paper that was accepted for publication in the prestigious OMEGA - The International Journal of Management Science is now available online at **["A multi-objective open vehicle routing problem with overbooking: Exact and heuristic solution approaches for an employee transportation problem".](https://www.sciencedirect.com/science/article/pii/S0305048321001961#! "link to journal paper page")**
 

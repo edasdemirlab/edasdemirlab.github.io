@@ -23,13 +23,13 @@ tags:
 
 ---
 
- ![Screenshot of Journal Paper Page](/assets/images/postimages/omega-bus.png){: .align-right} 
+ ![Screenshot of Journal Paper Page](/assets/images/postimages/omega-bus.png){: .align-right}
 
 Our latest paper that was accepted for publication in the prestigious OMEGA - The International Journal of Management Science is now available online at **["A multi-objective open vehicle routing problem with overbooking: Exact and heuristic solution approaches for an employee transportation problem".](https://www.sciencedirect.com/science/article/pii/S0305048321001961#! "link to journal paper page")**
 
 We carried out this study with my colleagues at the Department of Industrial Engineering of Hacettepe University. I am very grateful to Professors Murat Caner Testik, Diclehan Tezcaner Ozturk, Ceren Tuncer Sakar, Guldal Guleryuz, and Ozlem Muge Testik for their collaboration.
 
-If you’re interested in learning more about "School/Employment Bus routing problem under scarce resources" this paper may fit well to your interests. I believe the paper has potential to trigger important developments in the field. There are many real-world applications such as air and school bus transportation where overbooking is an important consideration in seat planning.
+If you’re interested in learning more about "School/Employee Bus routing problem under scarce resources" this paper may fit well to your interests. I believe the paper has potential to trigger important developments in the field. There are many real-world applications such as air and school bus transportation where overbooking is an important consideration in seat planning.
 
 Additionally, there may be situations where the planned capacity must be less  than the actual seat capacity such as in the Covid-19 pandemic. I would like to thank the editors and reviewers of OMEGA for appreciating the value of this paper.
 

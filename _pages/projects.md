@@ -6,6 +6,6 @@ layout: single
 ---
 
 
-This page is under construction.
+This page is under construction...
 
 {% include nav_list nav="projects" %}

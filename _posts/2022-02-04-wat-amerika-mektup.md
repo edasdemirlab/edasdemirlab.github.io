@@ -11,10 +11,7 @@ show_date: true
 
 
 categories:
-  - Kişisel
-  - Hobi
   - Genel
-  - Gezi
 
 tags:
   - Amerika
@@ -22,6 +19,7 @@ tags:
   - Gezi
   - Mektup
   - Anı
+  - Hobi
 
 gallery:
   - url: /assets/images/postimages/amerikamektup/amerika-0.jpg

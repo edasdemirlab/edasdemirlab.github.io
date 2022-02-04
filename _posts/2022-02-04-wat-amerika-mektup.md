@@ -75,7 +75,7 @@ Biz gideli neredeyse 12 yıl olmuş. Muhteşem bir yaz geçirmiştik. Çalışm�
 
 Unutmayalım "Once you hit rock bottom there is no way but up" yani "dibe vurduysanız yukarıya çıkmaktan başka bir yol yoktur. "After the rain comes sun" yani "her yağmurdan sonra güneş açar". Şu an elimizdeki tek şey kendimize yatırım yapmak. İlgilendiğimiz alanda kendimizi geliştirmek ve kişi, mekan ve zamandan bağımsız olarak kendimize yetebilir hale gelmek. Ücretsiz ve açık bu kadar kaynağın olduğu bir web ortamında bunu yapmak zor değil. Bununla ilgili bir yazıyı bir iki gün içerisinde bir başka gönderi olarak burada yayınlayacağım.
 
-Aşağıya ABD günlerinden bir kaç fotoğraf ve yine sevdiklerimize yazdığımız yazıları koyuyorum. Daha iyi günlere kavuşmak dileğiyle diyelim :)
+Aşağıya ABD günlerinden bir kaç fotoğraf ve yine o günlerde kaleme aldığımız iki tane mektubu koyuyorum. Daha iyi günlere kavuşmak dileğiyle diyelim :)
 
 
 

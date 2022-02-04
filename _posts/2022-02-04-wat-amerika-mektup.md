@@ -139,6 +139,7 @@ Arkadaşlar, ciddi anlamda geldiğimiz şehir bir siyahi şehri. Hatta kasaba. I
 Parktan sonra Alan'ın gazına gelip hadi "abi hostele kadar yürürüz, macera olur ne olacak sanki" cümleleriyle yola çıktık. Ancak yaklaşık 2 km sonra işlerin garipleştiğini fark ettik. Yoldan geçen arabalardan bize laf atıp bağırıp taciz etmeye başladılar. Heyy you guyss! You are gay!! cümleleri arasında tırsa tırsa yürümeye başladık. Evet cidden sokaklarda hiç yaya yoktu. Bu işte bir bit yeniği vardı. Az daha ilerlediğimizde gördüğümüz tabela karşısında dona kaldık.
 
 **YAYA GİRİŞİ YOK; ŞİDDET BÖLGESİ**
+
 Bu ne abi diye dönüp ALAN ve ICEMAN'a sorduğumda, çoktan arayı açtıklarını fark ettim. Peşlerinden koşmaya başladım. Tekrar geldiğimiz yolu geri dönüp, taksi çağırmaya karar verdik. Ancak tacizler devam ediyordu. Ah keşke 1-2 yaya daha görseydik de rahatlasaydık derken işte karşıdan biri geliyordu. Bir adam köpeğiyle birlikte bize doğru yürüyordu. Biraz korkmuş olmanın da etkisiyle "ya beyler, karşıya geçelim ne olur ne olmaz" dememize kalmadan adam panikle karşıya geçti. Bize dik dik bakmaya başladı. Hayda, herif bizden bildiğin korktu. Biz adımlarımızı hızlandırdık, parka geldik ve çağırdığımız taksiyle odamıza döndük.
 
 Sabahki taksimizi çağırdık, paşa paşa 20 doları verdik, ve hostelimizdeyiz.

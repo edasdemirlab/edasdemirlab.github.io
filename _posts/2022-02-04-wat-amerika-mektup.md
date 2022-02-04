@@ -153,8 +153,10 @@ Sabredip de okuyan herkese teşekkür ediyoruz. Haydi sağlıcakla kalın.
 Sevgilerle..
 
 Erdi DASDEMIR
+
 Muhammed ALAN
-Yigit Can ICEMAN
+
+Yiğit Can ICEMAN
 
 {% endcapture %}
 

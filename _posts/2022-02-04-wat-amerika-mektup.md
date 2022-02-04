@@ -81,7 +81,7 @@ Aşağıya ABD günlerinden bir kaç fotoğraf ve yine o günlerde kaleme aldı�
 
 
 
-{% include gallery caption="2020 yazına ait Amerika fotoğraflar." %}
+{% include gallery caption="2020 yazına ait Amerika fotoğrafları." %}
 
 
 Amerika'ya vardıktan sonra yazdığımız diğer mektuplar:

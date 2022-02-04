@@ -148,4 +148,4 @@ Yigit Can ICEMAN
 {% endcapture %}
 
 
-<div class="notice">{{ letter-1 | markdownify }}</div>
+<div class="notice">{{ letter-2 | markdownify }}</div>

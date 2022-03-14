@@ -9,6 +9,9 @@ share: true
 related: true
 show_date: true
 
+header:
+  teaser: "/assets/images/postimages/amerikamektup/amerikamektup-teaser.png"
+
 
 categories:
   - Genel

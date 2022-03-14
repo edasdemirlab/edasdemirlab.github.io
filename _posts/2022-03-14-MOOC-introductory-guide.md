@@ -34,20 +34,20 @@ tags:
 
 ![kacd-temsili-foto](/assets/images/postimages/kacdagirisrehberi/kacd-giris-rehberi-1.png){: .align-right .erdi_width_30}
 
-It is very easy to access many types of content through the internet these days. For example, we can access instantly audio content using platforms like [Spotify](https://www.spotify.com/) or [Apple Music](https://music.apple.com/). Similarly, we can access video content such as movies and TV series even from our mobile phone with platforms like [Netflix](https://www.netflix.com/) and [Amazon Prime](https://www.primevideo.com/). However, accessing written content such as books and educational materials is still difficult and costly. There is no platform that fully address and solve this. While this is the case, “Massive Open Online Course (MOOC)” offers a very strong promise:
+It is very easy to access many types of content through the internet these days. For example, we can access instantly audio content using platforms like [Spotify](https://www.spotify.com/) or [Apple Music](https://music.apple.com/). Similarly, we can access video content such as movies and TV series even from our mobile phone with platforms like [Netflix](https://www.netflix.com/) and [Amazon Prime](https://www.primevideo.com/). However, accessing written content such as books and educational materials is still difficult and costly. No platform fully addresses and solves this. While this is the case, “Massive Open Online Course (MOOC)” offers a very strong promise:
 
 > Delivering hard-to-reach educational content to the masses for free using video, audio, and written materials through online platforms where participants can interact.
 
 I observe that many people around me are aware of the existence of MOOCs, but cannot provide sufficient internal motivation to start as they have not realized the potential here yet. I even know those who are tired of being exposed to the certificates of those who complete these courses on social media.
 
-Considering the increasing popularity of MOOC, I decided to prepare this mini-post series to share my knowledge, experience, and views on this subject. My motivation is to keep them organized for myself, and maybe be useful to others interested in this subject. My story with MOOCs started at the end of 2019. I have completed nearly twenty MOOCs so far in line with my career goals. I achieved radical changes within two years by combining the skills I acquired from MOOCs with my background. For example, I used the data analytics skills I gained from MOOCs in the oversea projects I completed on [UpWork](https://www.upwork.com/). I prepared this web page with the web design skills I learned and hosted it on [GitHub](https://www.github.com/) using the knowledge I gained about Git and Unix. I believe that maximum efficiency can be obtained from MOOC with a little internal motivation, reducing the time wasted in daily routine and making correct future plans.
+Considering the increasing popularity of MOOC, I decided to prepare this mini-post series to share my knowledge, experience, and views on this subject. My motivation is to keep them organized for myself, and maybe be useful to others interested in this subject. My story with MOOCs started at the end of 2019. I have completed nearly twenty MOOCs so far in line with my career goals. I achieved radical changes within two years by combining the skills I acquired from MOOCs with my background. For example, I used the data analytics skills I gained from MOOCs in the oversea projects I completed on [UpWork](https://www.upwork.com/). I prepared this web page with the web design skills I learned and hosted it on [GitHub](https://www.github.com/) using the knowledge I gained about Git and Unix. I believe that maximum efficiency can be obtained from MOOC with a little internal motivation, reducing the time wasted in daily routine and making correct plans.
 
 <i class="fas fa-quote-left"></i> By the way, I believe that MOOC is not a fundamental but a complementary education model. In other words, I am not sure if it offers oppurtunuties in terms of equality in education as it claims. Discussions on this issue are also still ongoing. For example, Hollands and Tirthali (2014) conducted a study on this at Columbia University's Faculty of Education and concluded that *"those who benefit from MOOC already have a good educational background, therefore MOOC even widens the gap between those who have difficulty in accessing education and those who do not"*. In this series of posts, I will put aside such discussions and focus on the positive aspects of MOOC to offer a beginner guide for those who don't know where to start. <i class="fas fa-quote-right"></i>
 {: .notice--info}
 
 This series of posts will consist of three guides:
 
-**1. An Introductory Guide to MOOC:** In this post, I'm basically talking about the key features of MOOC and demonstrate how can the courses on popular platforms be accessed for free. I also give some tips and clues for certificate lovers about the ways of getting free certificates from popular platforms.
+**1. An Introductory Guide to MOOC:** In this post, I'm talking about the key features of MOOC and demonstrate how can the courses on popular platforms be accessed for free. I also give some tips and clues for certificate lovers about the ways of getting free certificates from popular platforms.
 
 **2. An Introductory Guide to Data Science with MOOC:** In this post, I will present a beginner's guide for those who have a proper background, are interested in data science but do not know where to start. I will list the MOOCs I recommend, briefly explain their content, the order the courses should be taken, and the platforms the courses are on.
 
@@ -77,14 +77,14 @@ A MOOC is carried out with the communication and interaction among the course in
 
 The second word of MOOC is **open**.
 
-> The open nature of MOOC roughly means that all course materials, interactions and other activities are freely available to participants.
+> The open nature of MOOC roughly means that all course materials, interactions, and other activities are freely available to participants.
 
-<i class="fas fa-quote-left"></i> It is of course debatable how "open" a MOOC is. It is true that all materials and tools of the courses can be accessed free of charge on existing platforms. However, when it is claimed as "open", to me, there shouldn’t be any rights problem with these materials. Yet, existing platforms are still not very clear on this issue. For example, Coursera says it is the only owner of the course content provided on the platform, that is, the materials cannot be taken off from the platform. Let's leave these discussions aside in this post and emphasize that we can access the course content free of charge, but the issue of using the content outside of the platform of providers is controversial. <i class="fas fa-quote-right"></i>
+<i class="fas fa-quote-left"></i> It is of course debatable how "open" a MOOC is. All materials and tools of the courses can indeed be accessed free of charge on existing platforms. However, when it is claimed as "open", to me, there shouldn’t be any rights problem with these materials. Yet, existing platforms are still not very clear on this issue. For example, Coursera says it is the only owner of the course content provided on the platform, that is, the materials cannot be taken off from the platform. Let's leave these discussions aside in this post and emphasize that we can access the course content free of charge, but the issue of using the content outside of the platform of providers is controversial. <i class="fas fa-quote-right"></i>
 {: .notice--info}
 
 The last two words of MOOC, **online course**, is a concept that we are already familiar with, especially after the pandemic.
 
->In conclusion, we can define MOOC as an online course that is delivered with a rich content in the form of video, audio, and written materials, that is carried out through interactions between a large number of participants and teaching staff, and that can be accessed free of charge via the internet.
+>In conclusion, we can define MOOC as an online course that is delivered with rich content in the form of video, audio, and written materials, that is carried out through interactions between a large number of participants and teaching staff, and that can be accessed free of charge via the internet.
 
 
 ## 2. The History of MOOC and Popular Platforms
@@ -103,9 +103,9 @@ As I think the most popular and successful MOOC platforms today are [Coursera](h
 ![kacd-rehber-ucretsizerisim](/assets/images/postimages/kacdagirisrehberi/kacd-giris-rehberi-4-ucretsiz.jpg){: .align-right .erdi_width_30}
 One of the MOOC misconceptions I often see is that people think the courses on Coursera and edX are paid. Since these platforms are starting to move away from their basic missions, unfortunately, they bring the fees to the forefront in the course promotions.
 
-> I would like to underline that you can enroll classes for free on both platforms, and you can access almost all of the course content for free. The fee is only needed to be paid for taking certificates provided by course providers like universities or reputable companies. Certificates are proof showing that you completed the course. In other words, when you pay the fee, you do not actually buy a MOOC, but the certificate shows that you have completed the MOOC.
+> I would like to underline that you can enroll classes for free on both platforms, and you can access almost all of the course content for free. The fee is only needed to be paid for taking certificates provided by course providers like universities or reputable companies. Certificates are proof showing that you completed the course. In other words, when you pay the fee, you do not buy a MOOC, but the certificate shows that you have completed the MOOC.
 
-If you are taking these MOOCs for your personal development and you don't really care about the certificate, you have nothing to worry about. Obviously, you've seen that there is a certificate sharing trend these days on LinkedIn. I don't know much about the validity of these certificates and where and how they work. However, I have read staff saying that these certificates are not considered fully valid even by the issuing institutions. If you still say that it would not be bad to get a certificate while you have completed the course, I will talk about the methods of doing this for free. But first, let's talk about what we should do to enroll a MOOC for free on [Coursera](https://www.coursera.org/) and [edX](https://www.edx.org/).
+If you are taking these MOOCs for your personal development and you don't care about the certificate, you have nothing to worry about. You should probably see that there is a certificate-sharing trend these days on LinkedIn. I don't know much about the validity of these certificates and where and how they work. However, I have read staff saying that these certificates are not considered fully valid even by the issuing institutions. If you still say that it would not be bad to get a certificate while you have completed the course, I will talk about the methods of doing this for free. But first, let's talk about what we should do to enroll a MOOC for free on [Coursera](https://www.coursera.org/) and [edX](https://www.edx.org/).
 
 ### 3.1 Coursera
 After you go to [Coursera - www.coursera.org](https://www.coursera.org/), sign up and log in, let's assume that you decide to take the course [Google's “Foundations: Data, Data, Everywhere”](https://www.coursera.org/learn/foundations-data). During the course registration, the page in Figure 1 will welcome us first.
@@ -115,14 +115,14 @@ After you go to [Coursera - www.coursera.org](https://www.coursera.org/), sign u
   <figcaption style="text-align:center;">Figure 1 – Screenshot of MOOC enrollment in Coursera.</figcaption>
 </figure>
 
-When we click “Enfoll for Free”, the white window in Figure 2 will appear. Here, we will select the "Audit the Course" option at the bottom left, which is the option that Coursera is obviously trying so we don't see.
+When we click “Enroll for Free”, the white window in Figure 2 will appear. Here, we will select the "Audit the Course" option at the bottom left, which is the option that Coursera is obviously trying so we don't see.
 
 <figure class="erdi_width_80 align-center">
   <img src="/assets/images/postimages/kacdagirisrehberi/kacd-giris-rehberi-coursera2.png" alt="kacd-rehber-coursera-ekran-goruntusu-audit">
   <figcaption style="text-align:center;">Fig 2 - Screenshot of Coursera "Audit" option.</figcaption>
 </figure>
 
-We succeeded, enrolled for the course and now have access to all course materials and activities. Coursera defines the "Audit" option as:
+We succeeded, enrolled for the course, and now have access to all course materials and activities. Coursera defines the "Audit" option as:
 
 >When you "Audit" a course, you will be able to see most of the course material for free, but you will not be able to submit certain assignments or get grades for your work. You will not receive a Certificate of Course, but you can pay for a certificate at any time during or after the course.
 
@@ -144,7 +144,7 @@ When we click the "Enroll" option, we will see the window in Figure 4. At the bo
   <figcaption style="text-align:center;">Figure 4 - Screenshot of edX "Audit" option </figcaption>
 </figure>
 
-We have now registered for the course and are able to access the course contents. edX has summarized the difference between the free "Audit" and the paid "Verified" options with the comparison in Figure 5.
+We have now registered for the course and can access the course contents. edX has summarized the difference between the free "Audit" and the paid "Verified" options with the comparison in Figure 5.
 
 <figure class="erdi_width_50 align-center">
   <img src="/assets/images/postimages/kacdagirisrehberi/kacd-giris-rehberi-edx3.png" alt="kacd-rehber-edx-screenshot-differences">
@@ -177,8 +177,8 @@ Let me explain this option with Coursera’s application process. Note that edX 
   <figcaption style="text-align:center;">Figure 6 - Screenshot of financial aid application in Coursera </figcaption>
 </figure>
 
-After we make a promise that we will complete the course, it asks some questions about our educational background, employment status, annual income, and the amount we are able to pay.
-We need to answer two questions: (1) Why are you applying for financial aid? (2) How will this course help your career goals? I leave some example answers to these questions below. Feel free to modify them and prepare your own letters. Evaluation takes 15 days. There is no number limit on the number of MOOCs you apply financial aid for. If you search on Google, you can see people taking 20+ certificates with this method.
+After we make a promise that we will complete the course, it asks some questions about our educational background, employment status, annual income, and the amount we can afford.
+We need to answer two questions: (1) Why are you applying for financial aid? (2) How will this course help your career goals? I leave some example answers to these questions below. Feel free to modify them and prepare your letters. Evaluation takes 15 days. There is no number limit on the number of MOOCs you apply financial aid for. If you search on Google, you can see people taking 20+ certificates with this method.
 
 Please see the draft letter below and adapt it for your case. They may not be very high-quality letters but they were tested and they worked. By the way, it is funny and sad at the same time that when I wrote the letter, one dollar was worth 8.5 TL and I wrote that the exchange rate is terrible in Turkey. I think we all would just accept 8.5 right away now. :sob:
 
@@ -194,12 +194,12 @@ Please see the draft letter below and adapt it for your case. They may not be ve
 
 <h4>Why are you applying for Financial Aid?</h4>
 
-<p> <i>I am a student in the field of industrial engineering in Turkey, and I have been working in the field of data science. Recently, I started to be interested in exploring the ways of efficiently teaching programming languages used in data science to young candidates. To do this, I decided to enroll high quality programming courses to discover the effective ways of teaching programming. I started with Python and enrolled the first courses of the “Programming for Everybody” and “Web Application for Everybody” specializations thought by Dr. Charles Severance. I loved them. They are very helpful. I then wanted to learn more about developing web applications. I completed the “Building Web Applications in PHP” and “Introduction to Structured Query Language (SQL)” courses given by the same instructor. I am grateful that you provide such great courses and gave us to chance of developing our skills. I have learned a lot and now I would like to continue with the next course of the same specialization, which is “Building Database Applications in PHP”. I believe that this course will let me combine my learning from the first two courses and learn more. Unfortunately, I am not able to afford the monthly rate of $48. I am a student, my income is low, and the currency in Turkey is terrible (1 $US = 8.5 TR lira).</i>
+<p> <i>I am a student in the field of industrial engineering in Turkey, and I have been working in the field of data science. Recently, I started to be interested in exploring the ways of efficiently teaching programming languages used in data science to young candidates. To do this, I decided to enroll high quality programming courses to discover the effective ways of teaching programming. I started with Python and enrolled the first courses of the “Programming for Everybody” and “Web Application for Everybody” specializations thought by Dr. Charles Severance. I loved them. They are very helpful. I then wanted to learn more about developing web applications. I completed the “Building Web Applications in PHP” and “Introduction to Structured Query Language (SQL)” courses given by the same instructor. I am grateful that you provide such great courses and gave us a chance to develop our skills. I have learned a lot and now I would like to continue with the next course of the same specialization, which is “Building Database Applications in PHP”. I believe that this course will let me combine my learning from the first two courses and learn more. Unfortunately, I am not able to afford the monthly rate of $48. I am a student, my income is low, and the currency in Turkey is terrible (1 $US = 8.5 TR lira).</i>
 </p>
 
 <h4>How will taking this course help you achieve your career goals?</h4>
 
-<p> <i>I have started to be interested in exploring the ways of efficiently teaching programming languages used in data science to young candidates. Coursera showed me that how much fun it could be in working hard on something that one is truly passionate about. I would like to combine my educational background that is mostly on mathematical optimization with the computer programming, and transfer my knowledge to my future students. I believe that the courses I have been taking at Coursera for a while will let me to develop my skills so that I can be helpful for young students. I also believe that the environs of this and other courses in Coursera will not only help me achieve my personal goals but also provide an opportunity to develop a multifaceted academic career, to help me fathom all avenues of my talent, such that I am able to contribute my share to new students, science and humanity in full.</i>
+<p> <i>I have started to be interested in exploring the ways of efficiently teaching programming languages used in data science to young candidates. Coursera showed me how much fun it could be in working hard on something that one is truly passionate about. I would like to combine my educational background that is mostly on mathematical optimization with the computer programming, and transfer my knowledge to my future students. I believe that the courses I have been taking at Coursera for a while will let me develop my skills so that I can be helpful for young students. I also believe that the environs of this and other courses in Coursera will not only help me achieve my personal goals but also provide an opportunity to develop a multifaceted academic career, to help me fathom all avenues of my talent, such that I can contribute my share to new students, science and humanity in full.</i>
 </p>
 
 </div>
@@ -207,7 +207,7 @@ Please see the draft letter below and adapt it for your case. They may not be ve
 ## 5. Conclusions
 In the beginning, I said that MOOC makes very strong promises and seems like one of the most advanced stages of democracy. Although some studies say that MOOC does not create equality in education as it promises, and instead increases inequality, it is still a very powerful opportunity when it is used correctly. I believe that MOOCs should be used as a complementary education model, not a fundamental one. That is, we should already have a certain background to ensure maximum efficiency from the MOOCs.
 
-As someone who has gained a lot from MOOCs, I presented my knowledge, experience, and opinions on this subject in this post. I hope that it can be usefull for people interested in taking MOOCs.I reviewed the definition of MOOC, its history, popular platforms, methods of enrolling classes without paying, and getting certificates for free of charge. My intention is to provide an introductory guide for those who are less familiar with MOOCs and don't know where to start.
+As someone who has gained a lot from MOOCs, I presented my knowledge, experience, and opinions on this subject in this post. I hope that it can be usefull for people interested in taking MOOCs.I reviewed the definition of MOOC, its history, popular platforms, methods of enrolling classes without paying, and getting certificates free of charge. I intend to provide an introductory guide with this series for those who are less familiar with MOOCs and don't know where to start.
 
 You can leave your comments below, send me an e-mail for your questions, and share the post on your social media if you find the content useful. I'm hopting to share the future posts of this series,  *“Introductory Guide to Data Science with MOOCs”* and *“Introductory Guide to Web Design and Programming with MOOCs”* in soon.
 

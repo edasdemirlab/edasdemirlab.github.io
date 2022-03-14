@@ -18,11 +18,11 @@ Recently, I started working on exploring ways to integrate mathematical optimiza
 
 As you are here, I am assuming in default that you are interested in analytics, my research, or projects. Please stay tuned to follow my posts and updates. If you have any questions, please feel free to contact me.
 
-**<a href="/assets/erdidocs/ErdiDasdemir-CV-English.pdf" target="_blank">Download my resume (English). </a>**
+<!--**<a href="/assets/erdidocs/ErdiDasdemir-CV-English.pdf" target="_blank">Download my resume (English). </a>**-->
 
-**<a href="/assets/erdidocs/ErdiDasdemir-CV-Turkce.pdf" target="_blank">Özgeçmişimi indirin (Türkçe). </a>**
+<!--**<a href="/assets/erdidocs/ErdiDasdemir-CV-Turkce.pdf" target="_blank">Özgeçmişimi indirin (Türkçe). </a>**-->
 
-[Download my resume (English).](/assets/erdidocs/ErdiDasdemir-CV-English.pdf){: .btn .btn--success .btn--large } [Özgeçmişimi indirin (Türkçe).](/assets/erdidocs/ErdiDasdemir-CV-Turkce.pdf){: .btn  .btn--danger .btn--large }
+[Download my resume (English).](/assets/erdidocs/ErdiDasdemir-CV-English.pdf){: .btn .btn--success .btn--large } [Özgeçmişimi indirin (Türkçe).](/assets/erdidocs/ErdiDasdemir-CV-Turkce.pdf){: .btn .btn--info .btn--large }
 
 ---
 

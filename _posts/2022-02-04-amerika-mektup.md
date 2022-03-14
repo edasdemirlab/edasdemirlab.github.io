@@ -9,6 +9,8 @@ share: true
 related: true
 show_date: true
 
+excerpt: "Ben 2008 yılında üniversiteye girdiğimde tam bir Work and Travel (WAT) çılgınlığı vardı. O zamanlar 1 Amerikan doları yaklaşık olarak 1.5 TL seviyesindeydi. O nedenle maliyetler çok düşüktü. Hatta öyle ki bu programa katılıp yazları ABD'ye gitmeyeni dövüyorlardı diyebilirim."
+
 header:
   teaser: "/assets/images/postimages/amerikamektup/amerikamektup-teaser.png"
 

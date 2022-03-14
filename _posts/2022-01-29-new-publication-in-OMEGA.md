@@ -8,7 +8,8 @@ comments: true
 share: true
 related: true
 show_date: true
-excerpt: "Our latest paper that was accepted for publication in the prestigious OMEGA - The International Journal of Management Science is now available online. We carried out this study with my colleagues at the Department of Industrial Engineering of Hacettepe University. If you are interested in learning more about "School/Employee Bus routing problem under scarce resources" this paper may fit well to your interests."
+
+excerpt: "Our latest paper that was accepted for publication in the prestigious OMEGA is now available online."
 
 header:
   teaser: "/assets/images/postimages/omegabuspublication/omegabus-teaser.png"

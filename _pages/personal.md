@@ -20,10 +20,8 @@ As you are here, I am assuming in default that you are interested in analytics, 
 
 <!--[Download my resume (English).](/assets/erdidocs/ErdiDasdemir-CV-English.pdf){: .btn .btn--success .btn--large } [Özgeçmişimi indirin (Türkçe).](/assets/erdidocs/ErdiDasdemir-CV-Turkce.pdf){: .btn .btn--info .btn--large }-->
 
-<a href="/assets/erdidocs/ErdiDasdemir-CV-English.pdf" target="_blank" class=".btn .btn--success .btn--large">Download my resume (English).</a> <a href="/assets/erdidocs/ErdiDasdemir-CV-Turkce.pdf" target="_blank" class=".btn .btn--info .btn--large">Özgeçmişimi indirin (Türkçe).</a>
+<a href="/assets/erdidocs/ErdiDasdemir-CV-English.pdf" target="_blank" class="btn btn--success btn--large">Download my resume (English).</a>  <a href="/assets/erdidocs/ErdiDasdemir-CV-Turkce.pdf" target="_blank" class="btn btn--info btn--large">Özgeçmişimi indirin (Türkçe).</a>
 
-
----
 
 <br/>
 # Resume

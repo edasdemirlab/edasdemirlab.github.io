@@ -57,6 +57,7 @@ body {
 
     .page__content,
     .page__meta,
+    .page__share__up,
     .page__share {
       position: relative;
       float: left;
@@ -258,6 +259,32 @@ body {
   margin-top: 2em;
   padding-top: 1em;
   border-top: 1px solid $border-color;
+
+
+
+  @include breakpoint(max-width $small) {
+    .btn span {
+      border: 0;
+      clip: rect(0 0 0 0);
+      height: 1px;
+      margin: -1px;
+      overflow: hidden;
+      padding: 0;
+      position: absolute;
+      width: 1px;
+    }
+  }
+}
+
+
+.page__share__up {
+  margin-top: -1.5em;
+  padding-top: -1em;
+  margin-botom: 1em;
+  padding-bottom: 1em;
+  border-bottom: 0px solid $border-color;
+
+
 
   @include breakpoint(max-width $small) {
     .btn span {

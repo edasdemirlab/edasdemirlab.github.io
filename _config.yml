@@ -24,7 +24,7 @@ description              : "A lab and blog for open source materials and tutoria
 url                      : "https://www.erdidasdemir.com"  #"https://www.edasdemirlab.github.io" #"https://erdidasdemir.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "edasdemirlab/edasdemirlab.git.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/images/ed-logo.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png" #posta eklenen resim bulunamadiginda yedek teaser
+teaser                   : "/assets/images/erdifoto/ed-logo.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png" #posta eklenen resim bulunamadiginda yedek teaser
 logo                     : # "/assets/images/ed-logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true # true, false (default)

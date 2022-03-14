@@ -33,7 +33,7 @@ tags:
 
 ![kacd-temsili-foto](/assets/images/postimages/kacdagirisrehberi/kacd-giris-rehberi-1.png){: .align-right .erdi_width_30}
 
-Günümüzde birçok türde içeriğe internet aracılığıyla erişmek artık oldukça kolay. Örneğin, [Spotify](https://www.spotify.com/)  veya [Apple Music](https://music.apple.com/) gibi platformlarla sesli içeriklere anında erişebiliyoruz. Film ve dizi gibi görüntülü içeriklere [Netflix](https://www.netflix.com/) ve [Amazon Prime](https://www.primevideo.com/) gibi platformlarla cep telefonumuzdan bile erişebiliyoruz. Ancak ne yazık ki yazılı içeriklere ve eğitim materyallerini ulaşmak hala çok zor ve masraflı. Bu problemi tam anlamıyla çözecek platformlar bir türlü tam anlamıyla geliştirilemedi. Hal böyleyken, karşımıza çıkan “Kitlesel Açık Çevrimiçi Ders (KAÇD)” kavramı çok güçlü bir vaatte bulunuyor:
+Günümüzde birçok türde içeriğe internet aracılığıyla erişmek artık oldukça kolay. Örneğin, [Spotify](https://www.spotify.com/) veya [Apple Music](https://music.apple.com/) gibi platformlarla sesli içeriklere, [Netflix](https://www.netflix.com/) ve [Amazon Prime](https://www.primevideo.com/) gibi platformlarla da görüntülü içeriklere düşük ücretlerle, anında ve cep telefonumuzdan bile erişebiliyoruz. Ancak ne yazık ki yazılı içeriklere ve eğitim materyallerine ulaşmak hala çok zor ve masraflı. Bu problemi tam anlamıyla çözecek platformlar bir türlü tam anlamıyla geliştirilemedi. Hal böyleyken, karşımıza çıkan “Kitlesel Açık Çevrimiçi Ders (KAÇD)” kavramı çok güçlü bir vaatte bulunuyor:
 
 >  Erişilmesi zor olan eğitim içeriklerini, görüntülü, sesli ve yazılı materyaller aracılığıyla, katılımcıların etkileşimde bulunabildiği çevrimiçi platformlar üzerinden ücretsiz bir şekilde kitlelere ulaştırmak.
 

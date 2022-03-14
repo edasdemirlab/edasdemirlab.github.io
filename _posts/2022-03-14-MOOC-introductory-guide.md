@@ -34,7 +34,7 @@ tags:
 
 ![kacd-temsili-foto](/assets/images/postimages/kacdagirisrehberi/kacd-giris-rehberi-1.png){: .align-right .erdi_width_30}
 
-It is very easy to access many types of content through the internet these days. For example, we can access instantly audio content using platforms like [Spotify](https://www.spotify.com/) or [Apple Music](https://music.apple.com/). Similarly, we can access video content such as movies and TV series even from our mobile phone with platforms like [Netflix](https://www.netflix.com/) and [Amazon Prime](https://www.primevideo.com/). However, accessing written content such as books and educational materials is still difficult and costly. No platform fully addresses and solves this. While this is the case, “Massive Open Online Course (MOOC)” offers a very strong promise:
+It is very easy to access many types of content through the internet these days. For example, we can access audio content using platforms like [Spotify](https://www.spotify.com/) or [Apple Music](https://music.apple.com/), and video content using platforms like [Netflix](https://www.netflix.com/) and [Amazon Prime](https://www.primevideo.com/) instantly with low fees. However, accessing written content such as books and educational materials is still difficult and costly. No platform fully addresses and solves this. While this is the case, “Massive Open Online Course (MOOC)” offers a very strong promise:
 
 > Delivering hard-to-reach educational content to the masses for free using video, audio, and written materials through online platforms where participants can interact.
 

@@ -12,6 +12,7 @@ toc: false
 toc_label: "İçindekiler"
 toc_icon: "file-alt"
 toc_sticky: "false"
+excerpt: "Çevremdeki birçok insanın KAÇD’ın varlığından haberdar olduğunu ancak buradaki potansiyeli henüz fark edemediğinden başlamak için yeterli iç motivasyonu sağlayamadığını gözlemliyorum. Hatta sosyal medya mecralarında bu dersleri tamamlayanların sertifikalarına maruz kalmaktan yorulan ve bu paylaşımlarla bıyık altından dalga geçenleri de biliyorum. KAÇD bu kadar popülerleşmişken, ben de bu konuyla ile ilgili bilgi, tecrübe ve görüşlerimin bir kenarda durması ve belki birilerine faydası olması için bu mini yazı dizisini hazırlamaya karar verdim."
 
 header:
   teaser: "/assets/images/postimages/kacdagirisrehberi/kacd-teaser.png"
@@ -36,7 +37,7 @@ Günümüzde birçok türde içeriğe internet aracılığıyla erişmek artık 
 
 >  Erişilmesi zor olan eğitim içeriklerini, görüntülü, sesli ve yazılı materyaller aracılığıyla, katılımcıların etkileşimde bulunabildiği çevrimiçi platformlar üzerinden ücretsiz bir şekilde kitlelere ulaştırmak.
 
-Çevremdeki birçok insanın KAÇD’ın varlığından haberdar olduğunu ancak buradaki potansiyeli henüz fark edemediği için yeterli iç motivasyonu sağlayamadığını gözlemliyorum. Hatta sosyal medya mecralarında bu dersleri tamamlayanların sertifikalarına maruz kalmaktan yorulan ve bu paylaşımlarla bıyık altından dalga geçenleri de biliyorum.
+Çevremdeki birçok insanın KAÇD’ın varlığından haberdar olduğunu ancak buradaki potansiyeli henüz fark edemediğinden başlamak için yeterli iç motivasyonu sağlayamadığını gözlemliyorum. Hatta sosyal medya mecralarında bu dersleri tamamlayanların sertifikalarına maruz kalmaktan yorulan ve bu paylaşımlarla bıyık altından dalga geçenleri de biliyorum.
 
 KAÇD bu kadar popülerleşmişken, ben de bu konuyla ile ilgili bilgi, tecrübe ve görüşlerimin bir kenarda durması ve belki birilerine faydası olması için bu mini yazı dizisini hazırlamaya karar verdim.
 2019 yılı sonlarında KAÇD’lara ilgi duymaya başladım. Kariyer hedeflerim doğrultusunda yirmiye yakın KAÇD tamamladım. Bunlarla edindiğim yetenekleri alt yapımla harmanlayarak iki sene içerisinde köklü değişiklikler elde ettim. Örneğin, edindiğim veri analitiği bilgilerini [UpWork](https://www.upwork.com/) üzerinden freelancer olarak yaptığım uluslararası projelerde kullandım. Bu web sayfasını öğrendiğim web tasarım bilgileriyle hazırlayıp, yine edindiğim git, unix gibi bilgiler sayesinde [GitHub](https://www.github.com/) üzerinde barındırdım. Biraz iç motivasyon, biraz günlük rutindeki boşa geçen zamanları azaltmak ve biraz da doğru bir gelecek planlamasıyla KAÇD’dan maksimum verimin alınabileceğine inanıyorum.

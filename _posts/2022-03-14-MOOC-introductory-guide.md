@@ -12,6 +12,7 @@ toc: false
 toc_label: "Content"
 toc_icon: "file-alt"
 toc_sticky: "false"
+excerpt: "I observe that many people around me are aware of the existence of MOOCs, but cannot provide sufficient internal motivation to start as they have not realized the potential here yet. I even know those who are tired of being exposed to the certificates of those who complete these courses on social media. Considering the increasing popularity of MOOC, I decided to prepare this mini-post series to share my knowledge, experience, and views on this subject."
 
 header:
   teaser: "/assets/images/postimages/kacdagirisrehberi/kacd-teaser.png"
@@ -37,7 +38,7 @@ It is very easy to access many types of content through the internet these days.
 
 > Delivering hard-to-reach educational content to the masses for free using video, audio, and written materials through online platforms where participants can interact.
 
-I observe that many people around me are aware of the existence of MOOCs, but cannot provide sufficient internal motivation as they have not realized the potential here yet. I even know those who are tired of being exposed to the certificates of those who complete these courses on social media.
+I observe that many people around me are aware of the existence of MOOCs, but cannot provide sufficient internal motivation to start as they have not realized the potential here yet. I even know those who are tired of being exposed to the certificates of those who complete these courses on social media.
 
 Considering the increasing popularity of MOOC, I decided to prepare this mini-post series to share my knowledge, experience, and views on this subject. My motivation is to keep them organized for myself, and maybe be useful to others interested in this subject. My story with MOOCs started at the end of 2019. I have completed nearly twenty MOOCs so far in line with my career goals. I achieved radical changes within two years by combining the skills I acquired from MOOCs with my background. For example, I used the data analytics skills I gained from MOOCs in the oversea projects I completed on [UpWork](https://www.upwork.com/). I prepared this web page with the web design skills I learned and hosted it on [GitHub](https://www.github.com/) using the knowledge I gained about Git and Unix. I believe that maximum efficiency can be obtained from MOOC with a little internal motivation, reducing the time wasted in daily routine and making correct future plans.
 

@@ -49,11 +49,11 @@ KAÇD bu kadar popülerleşmişken, ben de bu konuyla ile ilgili bilgi, tecrübe
 
 Bu yazı dizisi üç yazıdan oluşacak:
 
-**1. KAÇD’a Giriş Rehberi:** Bu yazıda temel olarak KAÇD’ın özelliklerinden ve popüler platformlardaki derslere nasıl ücretsiz erişebileceğinizden bahsediyorum. Sertifika severleri de unutmayarak popüler platformlardan nasıl ücretsiz sertifika alabileceğinize dair bazı ipuçları ve taktikler veriyorum.  
+**1. KAÇD Başlangıç Rehberi:** Bu yazıda temel olarak KAÇD’ın özelliklerinden ve popüler platformlardaki derslere nasıl ücretsiz erişebileceğinizden bahsediyorum. Sertifika severleri de unutmayarak popüler platformlardan nasıl ücretsiz sertifika alabileceğinize dair bazı ipuçları ve taktikler veriyorum.  
 
-**2. KAÇD ile Veri Bilimine Giriş Rehberi:** Bu yazıda belirli bir alt yapısı olan, veri bilimi alanına ilgi duyan ancak nereden başlayacağını bilemeyenler için bir başlangıç rehberi sunacağım. Katılmanızı önerdiğim KAÇD'lardan içerikleri ile bahsedecek, dersleri almanızı önerdiğim sıralamayı ve platformları anlatacağım.
+**2. KAÇD ile Veri Bilimine Giriş:** Bu yazıda belirli bir alt yapısı olan, veri bilimi alanına ilgi duyan ancak nereden başlayacağını bilemeyenler için bir başlangıç rehberi sunacağım. Katılmanızı önerdiğim KAÇD'lardan içerikleri ile bahsedecek, dersleri almanızı önerdiğim sıralamayı ve platformları anlatacağım.
 
-**3. KAÇD ile Web Tasarımı ve Programlamaya Giriş Rehberi:** İkinci yazıya benzer bir akış ile web tasarımı ve programlamaya ilgi duyanlar için bir başlangıç rehberi sunacağım.
+**3. KAÇD ile Web Tasarımı ve Programlamaya Giriş:** İkinci yazıya benzer bir akış ile web tasarımı ve programlamaya ilgi duyanlar için bir başlangıç rehberi sunacağım.
 
 <div class="notice--danger">
 <i class="fas fa-exclamation"></i> Bu yazı dizisini herkes okuyabilir ve yazdıklarımdan faydalanabilir ancak maksimum verimin alınabilmesi için önerilerim şunlardır:

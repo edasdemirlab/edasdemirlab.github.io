@@ -10,11 +10,9 @@ toc_sticky: "false"
 ---
 
 
-I am a Ph.D. in Operations Research, and currently working as a freelancer data and optimization scientist. In my research, I mainly focus on single and multi-objective optimization, mathematical programming, and evolutionary algorithms. The main application areas of my research are the routing problems of manned and unmanned vehicles. I have publications in well-known academic journals. I have attended and given talks at more than fifteen international conferences.
+I am a Ph.D. in Operations Research, and an assistant professor in the Department of Industrial Engineering, Hacettepe University. I am also actively cooperating with partners from the business world on their optimization and data science problems. In my research, I mainly focus on single and multi-objective optimization, mathematical programming, and evolutionary algorithms. The main application areas of my research are the routing problems of manned and unmanned vehicles.Recently, I started working on exploring ways to integrate mathematical optimization into data science efficiently. I have publications in well-known academic journals. I have attended and given talks at more than fifteen international conferences.
 
 I am very interested in computer programming for data science and matmematical optimization. I have used R for a variety of projects for over nine years. I have performed many analytical computations such as analysis, prediction, optimization, and visualization. I have been writing codes in Python as well. Additionally, I know HTML/CSS, PHP, SQL, and JavaScript languages. I mostly use LATEX for preparing documents, especially manuscripts. I have been using the GUROBI solver extensively for mathematical programming.
-
-Recently, I started working on exploring ways to integrate mathematical optimization into data science efficiently. I have intensified my experience in this area by conducting projects with business partners. I've been ranked as a rising talent by UpWork, the platform where I do my freelance projects. You may see my UpWork profile from [here.](https://www.upwork.com/freelancers/~0125073517d8c05c6b)
 
 As you are here, I am assuming in default that you are interested in analytics, my research, or projects. Please stay tuned to follow my posts and updates. If you have any questions, please feel free to contact me.
 

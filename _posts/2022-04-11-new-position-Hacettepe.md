@@ -15,7 +15,7 @@ header:
 
 categories:
   - Announcements
-  - Duyurular
+
 tags:
   - Hacettepe
   - IE

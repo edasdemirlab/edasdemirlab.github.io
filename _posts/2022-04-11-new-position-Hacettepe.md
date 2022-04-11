@@ -42,8 +42,8 @@ gallery:
     title: "my BSc graduation in 2013 | 2013'de lisans mezuniyeti"
   - url: /assets/images/postimages/newjobhacettepe/erdi-5.jpg
     image_path: /assets/images/postimages/newjobhacettepe/erdi-5.jpg
-    alt: "Starting MSc in 2015"
-    title: "starting MSc and research assistantship in 2015 | 2015'de yüksek lisansa ve asistanlığa başlamam"
+    alt: "Starting MSc in 2013"
+    title: "starting MSc and research assistantship in 2013 | 2013'te yüksek lisansa ve asistanlığa başlamam"
   - url: /assets/images/postimages/newjobhacettepe/erdi-6.jpg
     image_path: /assets/images/postimages/newjobhacettepe/erdi-6.jpg
     alt: "now me 2022"

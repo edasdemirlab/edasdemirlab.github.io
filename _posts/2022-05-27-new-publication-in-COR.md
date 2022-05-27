@@ -40,6 +40,15 @@ If you are interested in learning more about "Route planning problem of UAVs" th
 <i class="far fa-sticky-note"></i> **Note:** This paper is also interesting in terms of the extensive and efficient usage of analytics. More specifically, we programmed the all experiments using R programming language and solve the mathematical models using the [GUROBI Optimizer 8.1.0](https://www.gurobi.com/) through [R 3.5.3](https://www.r-project.org/). All experiments were performed at the [Center for Computational Research of University at Buffalo](http://hdl.handle.net/10477/79221), on a Dell 32-core computer running Linux Centos 7.5.x with processor Intel Xeon Gold 6130 CPU, 32 x 2.10GHz and 192 GB usable RAM. We are grateful to the University at Buffalo for allowing us access to their Center for Computational Research for high performance computing resources.
 {: .notice--info}
 
+## Free Access
+The publisher, Elsevier, gave me a personalized URL that provides 50 days' free access (until July 16, 2022) to anyone with the link. You are welcome to read or download. No sign up, registration or fees are required.
+
+>Free Access Link: [UAV routing for reconnaissance mission: A multi-objective orienteering problem with time-dependent prizes and multiple connections](https://authors.elsevier.com/c/1f8jK15N8SJMjs)
+
+After July 16, 2022 the paper will be available on [COR's web site](https://www.sciencedirect.com/science/article/pii/S0305054822001526?via%3Dihub).
+
+If you have trouble with accessing the paper, please feel free to contact me so that I can provide you with the full text.
+
 ## Highlights
 
 I strongly encourage you to read this paper if you are interested in:
@@ -49,16 +58,6 @@ I strongly encourage you to read this paper if you are interested in:
 - Multi-objective optimization, and investigation of trade-offs between distance and radar detection threat
 - A case study based on the terrain properties of the State of Colorado, US.
 
-
-You may see the abstract below and the full paper at [COR's web site](https://www.sciencedirect.com/science/article/pii/S0305054822001526?via%3Dihub).
-
-Moreover, the publisher, Elsevier, gave me a personalized URL that provides 50 days' free access (until July 16, 2022) to anyone with the link. You are welcome to read or download. No sign up, registration or fees are required.
-
->Free Access Link: https://authors.elsevier.com/c/1f8jK15N8SJMjs
-
-If you have trouble with accessing the paper, please feel free to contact me so that I can provide you with the full text.
-
-Abstract and keywords of the paper are below:
 
 ## Abstract
 

@@ -49,7 +49,7 @@ I strongly encourage you to read this paper if you are interested in:
  - Mathematical programming, heuristic solution approaches, and computational experiments with analytical tools.
 
 
-You may see the abstract below at full paper at [OMEGA's web site](https://www.sciencedirect.com/science/article/pii/S0305048321001961#!). If you have trouble with accessing the paper, please feel free to contact me so that I can provide you with the full text free of charge.
+You may see the abstract below and the full paper at [OMEGA's web site](https://www.sciencedirect.com/science/article/pii/S0305048321001961#!). If you have trouble with accessing the paper, please feel free to contact me so that I can provide you with the full text.
 
 Abstract and keywords of the paper are below:
 

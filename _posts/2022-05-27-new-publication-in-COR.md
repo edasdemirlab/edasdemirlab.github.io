@@ -45,7 +45,7 @@ The publisher, Elsevier, gave me a personalized URL that provides 50 days' free 
 
 >Free Access Link: [UAV routing for reconnaissance mission: A multi-objective orienteering problem with time-dependent prizes and multiple connections](https://authors.elsevier.com/c/1f8jK15N8SJMjs)
 
-After July 16, 2022 the paper will be available on [COR's web site](https://www.sciencedirect.com/science/article/pii/S0305054822001526?via%3Dihub).
+After July 16, 2022 the paper will be available on [COR's web site](https://www.sciencedirect.com/science/article/pii/S0305054822001526).
 
 If you have trouble with accessing the paper, please feel free to contact me so that I can provide you with the full text.
 

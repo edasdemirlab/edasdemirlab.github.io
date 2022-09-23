@@ -16,22 +16,40 @@ intro:
 
 
 feature_row_left:
-  - image_path: /assets/images/kalitehareketi/webinar-mayis-2021.jpg
+  - image_path: /assets/images/kalitehareketi/webinar-5-haziran-2022.png
+    alt: "Haziran 2022 webinar duyurusu"
+    title: "İş Hayatında Başarılı Kariyer İçin Öneriler"
+    excerpt: "'İş Hayatında Başarılı Kariyer İçin Öneriler' çevrimiçi etkinliğimiz, Prof. Dr. Murat Caner Testik hocamızın moderatörlüğünde, TOFAŞ Otomobil Fabrikaları A.Ş. Kalite Direktörü Sinan Yıldırım tarafından 30 Haziran 2022 saat 18:00'de Hacettepe Üniversitesi Endüstri Mühendisliği Bölümü topluluklarından GİYAT'ın iş birliğiyle desteğiyle gerçekleştirilmiştir."
+
+feature_row_center:
+  - image_path: /assets/images/kalitehareketi/webinar-4-nisan-2022.png
+    alt: "Nisan 2022 webinar duyurusu"
+    title: "Bir Ürünü Endüstriyelleştirme Süreci"
+    excerpt: "'Bir Ürünü Endüstriyelleştirme Süreci' çevrimiçi etkinliğimiz, Prof. Dr. Murat Caner Testik hocamızın moderatörlüğünde, TOFAŞ Otomobil Fabrikaları A.Ş. Kalite Direktörü Sinan Yıldırım tarafından 13 Ocak 2022 saat 20:00'de gerçekleştirilmiştir."
+
+
+feature_row_right:
+  - image_path: /assets/images/kalitehareketi/webinar-3-ocak-2022.jpg
+    alt: "Ocak 2022 webinar duyurusu"
+    title: "Ürün Geliştirme Sürecinde Ürün Kalite Tetkiki"
+    excerpt: "'Endüstride Kalite Webinar Serisi - Ürün Geliştirme Sürecinde Ürün Kalite Tetkiki' çevrimiçi etkinliğimiz, Prof. Dr. Murat Caner Testik hocamızın moderatörlüğünde, Almanya BMW AG Kalite Koordinatörü Esra Bağcı tarafından 20 Ocak 2022 saat 20:00'de gerçekleştirilmiştir."
+
+
+feature_row_left:
+- image_path: /assets/images/kalitehareketi/webinar-2-aralik2021.jpg
+  alt: "Aralik 2021 webinar duyurusu"
+  title: "PUKÖ ile Sistematik Problem Çözümü - 2"
+  excerpt: "İlk eğitimimize gelen yoğun talep ve sonrasındaki tekrar istekleri nedeniyle, 'Endüstride Kalite Webinar Serisi - PUKÖ ile Sistematik Problem Çözümü' eğitimi  Prof. Dr. Murat Caner Testik hocamızın moderatörlüğünde, Almanya BMW AG Kalite Koordinatörü Esra Bağcı tarafından 16 Aralık 2021'de saat 19:30'da çevrimiçi olarak gerçekleştirilmiştir."
+
+
+feature_row_center:
+  - image_path: /assets/images/kalitehareketi/webinar-1-mayis-2021.jpg
     alt: "Mayıs 2021 webinar duyurusu"
     title: "PUKÖ ile Sistematik Problem Çözümü"
     excerpt:  "İlk eğitimimiz,  'Endüstride Kalite Webinar Serisi - PUKÖ ile Sistematik Problem Çözümü', Prof. Dr. Murat Caner Testik hocamızın moderatörlüğünde, Almanya BMW AG Kalite Koordinatörü Esra Bağcı tarafından 14 Mayıs 2021'de saat 21:00'de çevrimiçi olarak gerçekleştirilmiştir."
 
-feature_row_right:
-  - image_path: /assets/images/kalitehareketi/webinar-aralik2021.jpg
-    alt: "Aralik 2021 webinar duyurusu"
-    title: "PUKÖ ile Sistematik Problem Çözümü - 2"
-    excerpt: "İlk eğitimimize gelen yoğun talep ve sonrasındaki tekrar istekleri nedeniyle, 'Endüstride Kalite Webinar Serisi - PUKÖ ile Sistematik Problem Çözümü' eğitimi  Prof. Dr. Murat Caner Testik hocamızın moderatörlüğünde, Almanya BMW AG Kalite Koordinatörü Esra Bağcı tarafından 16 Aralık 2021'de saat 19:30'da çevrimiçi olarak gerçekleştirilmiştir."
 
-feature_row_center:
-  - image_path: /assets/images/kalitehareketi/webinar-ocak-2022.jpg
-    alt: "Ocak 2022 webinar duyurusu"
-    title: "Ürün Geliştirme Sürecinde Ürün Kalite Tetkiki"
-    excerpt: "'Endüstride Kalite Webinar Serisi - Ürün Geliştirme Sürecinde Ürün Kalite Tetkiki' çevrimiçi etkinliğimiz, Prof. Dr. Murat Caner Testik hocamızın moderatörlüğünde, Almanya BMW AG Kalite Koordinatörü Esra Bağcı tarafından 20 Ocak 2022 saat 20:00'de gerçekleştirilmiştir."
+
 
       #url: "#test-link"
       #btn_label: "Read More"

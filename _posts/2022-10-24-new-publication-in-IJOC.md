@@ -28,6 +28,8 @@ tags:
 
  ![Screenshot of Journal Paper Page](/assets/images/postimages/ijocpublication/ijoc-uav-screenshot.jpg){: .align-right}
 
+ <br>
+
 Our latest paper that was accepted for publication in the prestigious INFORMS Journal on Computing (IJOC) is now available online at **["Unmanned Aerial Vehicle Information Collection Missions with Uncertain Characteristics".](https://pubsonline.informs.org/doi/10.1287/ijoc.2022.1245)**
 
 We carried out this study with my colleague Michael D. Moskal II and Professor Rajan Batta from the Department of Industrial and Systems Engineering at the State University of New York at Buffalo.

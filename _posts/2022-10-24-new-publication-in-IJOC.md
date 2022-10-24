@@ -26,7 +26,7 @@ tags:
   - R
 ---
 
- ![Screenshot of Journal Paper Page](/assets/images/postimages/coruavpublication/cor-uav.png){: .align-right}
+ ![Screenshot of Journal Paper Page](/assets/images/postimages/ijocpublication/ijoc-uav-screenshot.jpg){: .align-right}
 
 Our latest paper that was accepted for publication in the prestigious INFORMS Journal on Computing (IJOC) is now available online at **["Unmanned Aerial Vehicle Information Collection Missions with Uncertain Characteristics".](https://pubsonline.informs.org/doi/10.1287/ijoc.2022.1245)**
 

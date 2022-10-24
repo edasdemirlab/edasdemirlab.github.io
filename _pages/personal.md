@@ -10,11 +10,11 @@ toc_sticky: "false"
 ---
 
 
-I am a Ph.D. in Operations Research, and an assistant professor in the Department of Industrial Engineering, Hacettepe University. I am also actively cooperating with partners from the business world on their optimization and data science problems. In my research, I mainly focus on single and multi-objective optimization, mathematical programming, and evolutionary algorithms. The main application areas of my research are the routing problems of manned and unmanned vehicles. Recently, I started working on exploring ways to integrate mathematical optimization into data science efficiently. I have publications in well-known academic journals. I have attended and given talks at more than fifteen international conferences.
+I am a Ph.D. in Operations Research, and an assistant professor of Industrial Engineering at Hacettepe University. As of October 2022, I am on a research visit to do post-doctoral research studies at University at Buffalo. In my research, I mainly focus on mathematical optimization, multi-objective optimization, and evolutionary algorithms. The main application domains of my research are supply chain problems and the routing problems of manned and unmanned vehicles. I have publications in well-known academic journals. I have attended and given talks at more than fifteen international conferences. I am also actively cooperating with business partners on their practical optimization and data science problems.
 
-I am very interested in computer programming for data science and mathematical optimization. I have used R for a variety of projects for over nine years. I have performed many analytical computations such as analysis, prediction, optimization, and visualization. I have been writing codes in Python as well. Additionally, I know HTML/CSS, PHP, SQL, and JavaScript languages. I mostly use LATEX for preparing documents, especially manuscripts. I have been using the GUROBI solver extensively for mathematical programming.
+I am very interested in computer programming for data science and mathematical optimization. I have used R for a variety of projects for over nine years. I have performed many analytical computations such as analysis, prediction, optimization, and visualization. I have been writing codes in Python as well. Additionally, I know HTML/CSS, PHP, SQL, and JavaScript languages. I mostly use LATEX for preparing documents, especially manuscripts. I have been using the GUROBI solver extensively for mathematical optimization.
 
-As you are here, I am assuming in default that you are interested in analytics, my research, or projects. Please stay tuned to follow my posts and updates. If you have any questions, please feel free to contact me.
+Please stay tuned to follow my posts and updates. If you have any questions, please feel free to contact me.
 
 <!--[Download my resume (English).](/assets/erdidocs/ErdiDasdemir-CV-English.pdf){: .btn .btn--success .btn--large } [Özgeçmişimi indirin (Türkçe).](/assets/erdidocs/ErdiDasdemir-CV-Turkce.pdf){: .btn .btn--info .btn--large }-->
 
@@ -25,7 +25,7 @@ As you are here, I am assuming in default that you are interested in analytics, 
 # Resume
 
 ## Fields of Interest
-Operations research, multi-objective optimization, mathematical programming, data analytics, evolutionary algorithms, manned and unmanned vehicle routing.
+Mathematical optimization, multi-objective optimization, data analytics, evolutionary algorithms, supply chain problems, manned and unmanned vehicle routing.
 
 ## Education
 -	Ph.D., Industrial Engineering, METU, Turkey, 2021.
@@ -39,26 +39,29 @@ Operations research, multi-objective optimization, mathematical programming, dat
 
 
 ## Work Experience
--	State University of New York at Buffalo, Department of Industrial and Systems Engineering, Buffalo/New York/US, Visiting Scholar/Researcher, Supervisor: Professor Rajan Batta, Dates: February 2019 – January 2020.
+-	University at Buffalo, Department of Industrial and Systems Engineering, Buffalo/New York/US, Visiting Professor, Hosting Professor: Professor Rajan Batta, Dates: October 2022 – ongoing.
+-	Hacettepe University, Industrial Engineering Department, Ankara/Turkey, Assistant Professor, Dates: April 2022 – ongoing.
+-	University at Buffalo, Department of Industrial and Systems Engineering, Buffalo/New York/US, Visiting Scholar/Researcher, Supervisor: Professor Rajan Batta, Dates: February 2019 – January 2020.
 -	Hacettepe University, Industrial Engineering Department, Ankara/Turkey, Research Assistant, Dates: September 2013 – October 2021.
 -	BNB Consulting, Cyber Park, Bilkent, Ankara/Turkey, Business Development and Project Development Specialist, Dates: October 2012 – August 2013.
 
 
 ## Funded Research Projects
+-	TÜBİTAK 2219-International Postdoctoral Research Fellowship Program (October 2022 – October 2023), Award No: 1059B192201022, Principal Investigator: Erdi Dasdemir
 - Bi-Objective UAV Route Planning in Continuous Space (1 October.2015 – 31 March 2017) , Air Force Office of Scientific Research, Air Force Material Command, USAF, Award No: FA9550-16-1-0005, Principal Investigator: Prof. Dr. Murat KÖKSALAN, Researchers: Erdi Dasdemir, Dr. Diclehan Tezcaner Ozturk, Hannan Tureci.
 - Minimizing the Financial Losses of Hacettepe University Hospitals: Improving Hospital Billing Process and Reducing Billing Errors, TÜBİTAK, 2209-A Sanayi Entegre Proje Destek Programı, Award No: 1919B011202200, Principal Investigator: Erdi Daşdemir, Researchers: Murat Atalay, Volkan Bilgin, Macit Mete Oğuz.
 
 
 ## Publications
-1.	Dasdemir, E. Testik, M.C., Tezcaner Ozturk, D., Tuncer Sakar, C., Guleryuz G., Aydin O. M., (2022) “A Multi-objective open vehicle routing problem with overbooking: Exact and heuristic solution approaches for an employee transportation problem,” OMEGA - The International Journal of Management Science, 108:102587.
-2.	Dasdemir, E., Koksalan M., Tezcaner Ozturk, D. (2020) “A Flexible Reference Point-Based Multi-objective Evolutionary Algorithm: An Application to the UAV Route Planning Problem”, Computers & Operations Research, 114: 104811.
-3.	Aydın, O., Shaygan, A. Dasdemir, E., Soydan G. (2017) “Selecting Health Care Improvement Projects: A Methodology Integrating Cause-and-Effect Diagram and Analytical Hierarchy Process”, Quality Management in Health Care, 26.1: 40-48.
-4.	Dasdemir, E., Weiss, C., Testik, M., Knoth, S. (2016) “Evaluation of Phase I Analysis Scenarios on Phase II Performance of Control Charts for Autocorrelated Observations”, Quality Engineering, 28.3:293-304.
-5.	Dasdemir, S., Dasdemir, E., (2019) Next Generation Supply Chain and Stock Control with Internet of Things and RFID, Vergi Raporu (ULAKBIM), 236, 233-253.
+1.	Moskal M.D., Dasdemir E., Batta R. (2022) “Unmanned Aerial Vehicle Information Collection Missions with Uncertain Characteristics”, INFORMS Journal on Computing, doi:10.1287/ijoc.2022.1245.
+2.	Dasdemir, E., Batta, R., Koksalan, M., Tezcaner Ozturk, D. (2022) “UAV Routing for Reconnaissance Mission: A Multi-Objective Orienteering Problem with Time-Dependent Prizes and Multiple Connections”, Computers & Operations Research, 145: 105882.
+3.	Dasdemir, E. Testik, M.C., Tezcaner Ozturk, D., Tuncer Sakar, C., Guleryuz G., Aydin O. M., (2022) “A Multi-objective open vehicle routing problem with overbooking: Exact and heuristic solution approaches for an employee transportation problem,” OMEGA - The International Journal of Management Science, 108:102587.
+4.	Dasdemir, E., Koksalan M., Tezcaner Ozturk, D. (2020) “A Flexible Reference Point-Based Multi-objective Evolutionary Algorithm: An Application to the UAV Route Planning Problem”, Computers & Operations Research, 114: 104811.
+5.	Aydın, O., Shaygan, A. Dasdemir, E., Soydan G. (2017) “Selecting Health Care Improvement Projects: A Methodology ıntegrating Cause-and-Effect Diagram and Analytical Hierarchy Process”, Quality Management in Health Care, 26.1: 40-48.
+6.	Dasdemir, E., Weiss, C., Testik, M., Knoth, S. (2016) “Evaluation of Phase I Analysis Scenarios on Phase II Performance of Control Charts for Autocorrelated Observations”, Quality Engineering, 28.3:293-304.
+7.	Dasdemir, S., Dasdemir, E., (2019) Next Generation Supply Chain and Stock Control with Internet of Things and RFID, Vergi Raporu (ULAKBIM), 236, 233-253.
 
      **Publications in Process**
-6. Moskal M.D., Dasdemir E., Batta R. (under review) “Unmanned Aerial Vehicle Information Collection Missions with Uncertain Characteristics”. IJOC.
-7.	Dasdemir E., Batta R., Koksalan M., Ozturk D.T. (under review). “UAV Routing for Reconnaissance Mission: A Multi-Objective Orienteering Problem with Time-dependent Prizes and Multiple Connections”. Computers & Operations Research.
 8.	Akduran Y., Dasdemir E., Testik M.C. (in submission). “An Approach to Search Efficient Settings for the Operators and Parameters of Genetic Algorithms” Applied Soft Computing.
 
 

@@ -8,7 +8,7 @@ comments: true
 share: true
 related: true
 show_date: true
-excerpt: "I am excited to share that I started a new position as visiting scholar at the Industrial and Systems Engineering Department of University at Buffalo."
+excerpt: "I am happy to share that I started a new position as visiting scholar at the Industrial and Systems Engineering Department of University at Buffalo."
 
 header:
   teaser: "/assets/images/postimages/newpositionub/ub-teaser.png"

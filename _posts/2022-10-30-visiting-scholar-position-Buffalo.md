@@ -1,5 +1,5 @@
 ---
-title: "I joined University at Buffalo as a visiting scholar!"
+title: "I joined University at Buffalo as a Visiting Scholar!"
 layout: single
 classes: wide
 author_profile: true
@@ -29,8 +29,7 @@ tags:
 
 ## English
 
-![new-position](/assets/images/postimages/newjobub/ub-1.jpg){: .align-left .erdi_width_30}
-![new-position](/assets/images/postimages/newjobub/ub-2.jpg){: .align-right .erdi_width_30}
+![new-position](/assets/images/postimages/newpositionub/ub.png){: .align-center .erdi_width_30}
 
 I am happy to share that I joined the Industrial and Systems Engineering Department of University at Buffalo as a visiting scholar. I’d like to thank to Professor Rajan Batta and the department for their invitation, and corresponding UB staff for their support throughout the process. I am very excited about this opportunity.
 

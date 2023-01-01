@@ -39,7 +39,7 @@ Mathematical optimization, multi-objective optimization, data analytics, evoluti
 
 
 ## Work Experience
--	University at Buffalo, Department of Industrial and Systems Engineering, Buffalo/New York/US, Visiting Professor, Hosting Professor: Professor Rajan Batta, Dates: October 2022 – ongoing.
+-	University at Buffalo, Department of Industrial and Systems Engineering, Buffalo/New York/US, Visiting Scholar, Dates: October 2022 – ongoing.
 -	Hacettepe University, Industrial Engineering Department, Ankara/Turkey, Assistant Professor, Dates: April 2022 – ongoing.
 -	University at Buffalo, Department of Industrial and Systems Engineering, Buffalo/New York/US, Visiting Scholar/Researcher, Supervisor: Professor Rajan Batta, Dates: February 2019 – January 2020.
 -	Hacettepe University, Industrial Engineering Department, Ankara/Turkey, Research Assistant, Dates: September 2013 – October 2021.
@@ -47,9 +47,10 @@ Mathematical optimization, multi-objective optimization, data analytics, evoluti
 
 
 ## Funded Research Projects
--	TÜBİTAK 2219-International Postdoctoral Research Fellowship Program (October 2022 – October 2023), Award No: 1059B192201022, Principal Investigator: Erdi Dasdemir
-- Bi-Objective UAV Route Planning in Continuous Space (1 October.2015 – 31 March 2017) , Air Force Office of Scientific Research, Air Force Material Command, USAF, Award No: FA9550-16-1-0005, Principal Investigator: Prof. Dr. Murat KÖKSALAN, Researchers: Erdi Dasdemir, Dr. Diclehan Tezcaner Ozturk, Hannan Tureci.
-- Minimizing the Financial Losses of Hacettepe University Hospitals: Improving Hospital Billing Process and Reducing Billing Errors, TÜBİTAK, 2209-A Sanayi Entegre Proje Destek Programı, Award No: 1919B011202200, Principal Investigator: Erdi Daşdemir, Researchers: Murat Atalay, Volkan Bilgin, Macit Mete Oğuz.
+1.	TÜBİTAK 2219-International Postdoctoral Research Fellowship Program (October 2022 – October 2023), Award No: 1059B192201022, Principal Investigator: Erdi Dasdemir
+2.	YÖK YUDAB - International Ph.D. Research Fellowship Program for Those Pursuing Doctoral Studies in Priority Areas (February 2019 – December 2019), Principal Investigator: Erdi Dasdemir
+3. Bi-Objective UAV Route Planning in Continuous Space (1 October.2015 – 31 March 2017) , Air Force Office of Scientific Research, Air Force Material Command, USAF, Award No: FA9550-16-1-0005, Principal Investigator: Prof. Dr. Murat KÖKSALAN, Researchers: Erdi Dasdemir, Dr. Diclehan Tezcaner Ozturk, Hannan Tureci.
+4. Minimizing the Financial Losses of Hacettepe University Hospitals: Improving Hospital Billing Process and Reducing Billing Errors, TÜBİTAK, 2209-A Sanayi Entegre Proje Destek Programı, Award No: 1919B011202200, Principal Investigator: Erdi Daşdemir, Researchers: Murat Atalay, Volkan Bilgin, Macit Mete Oğuz.
 
 
 ## Publications
@@ -81,6 +82,9 @@ Mathematical optimization, multi-objective optimization, data analytics, evoluti
 13.	Sonmez, V., Dasdemir, E., Testik, M. and Aydin, O. “A Simulation Based Decision Support Tool for Hospital Bed Capacity Planning,” Proceedings of Global Conference on Healthcare Systems Engineering (GCHSE) 2014, Istanbul/Turkey, 5-8 August, 2014.
 14.	Dasdemir, E., Oguz, M., Atalay, M., Bilgin, V., Testik, M. and Soydan, G. “Improving Hospital Billing Processes for Reducing Costs of Billing Errors,” European Network for Business and Industrial Statistics (ENBIS) 13 Conference, Ankara/Turkey. 15-19 September 2013.
 
+## Awards
+- "OMEGA - The International Journal of Management Science" 2022 Best Reviewer Award
+
 ## Professional Certificates
 -	University of Michigan, Programming for Everybody (Python).
 -	University of Michigan, Python Data Structures.
@@ -106,7 +110,7 @@ Camping, trekking, skiing and snowboarding, nature, music.
 <br/>
 #  Özgeçmiş
 ## İlgi ve Araştırma Alanları
-Yöneylem araştırması, çok amaçlı optimizasyon, matematiksel programlama, veri analitiği, evrimsel algoritmalar, insanlı ve insansız araç rotalama.
+Matematiksel optimizasyon, çok amaçlı optimizasyon, veri analitiği, evrimsel algoritmalar, tedarik zinciri problemleri, insanlı ve insansız araç rotalama.
 
 ## Eğitim Geçmişi
 -	Doktora, Endüstri Mühendisliği, Orta Doğu Teknik Üniversitesi, 2021.
@@ -119,25 +123,28 @@ Yöneylem araştırması, çok amaçlı optimizasyon, matematiksel programlama, 
 -	Lisans Tezi: Hacettepe Üniversitesi Hastaneleri Faturalandırma Sürecinin İyileştirilmesiyle Mali Kayıpların Azaltılması (2013).
 
 ## İş Tecrübesi
--	New York Eyalet Üniversitesi’nin Buffalo Üniversitesi, Ziyaretçi Araştırmacı, Danışman: Prof. Dr. Rajan Batta, Şubat 2019 - Aralık 2019.
+-	Buffalo Üniversitesi, New York, Amerika, Misafir Öğretim Üyesi, Ekim 2022 – devam.
+-	Hacettepe Üniversitesi, Endüstri Mühendisliği Bölümü, Ankara, Türkiye, Dr. Öğretim Üyesi, Nisan 2022 – devam.
+-	Buffalo Üniversitesi, New York, Amerika, Ziyaretçi Araştırmacı, Danışman: Prof. Dr. Rajan Batta, Şubat 2019 - Aralık 2019.
 -	Hacettepe Üniversitesi, Endüstri Mühendisliği Bölümü, Araştırma Görevlisi, Eylül 2013 – Ekim 2021.
 -	BNB Danışmanlık Ltd. Şti., Cyber Park, Bilkent, Ankara / Türkiye, İş Geliştirme Mühendisi, Ekim 2012 – Ağustos 2013.
 
 ## Görev Aldığı Araştırma Projeleri
-1. Bi-Objective UAV Route Planning in Continuous Space (1 October.2015 – 31 March 2017) , Air Force Office of Scientific Research, Air Force Material Command, USAF, Award No: FA9550-16-1-0005, Project Manager: Prof. Dr. Murat KÖKSALAN, Researchers: Erdi Dasdemir, Dr. Diclehan Tezcaner Ozturk, Hannan Tureci.
-2. Hacettepe Üniversitesi Hastaneleri Faturalandırma Sürecinin İyileştirilmesiyle Mali Kayıpların Azaltılması, TÜBİTAK, 2209- A Sanayi Entegre Proje Destek Programı, Başvuru Numarası: 1919B011202200, Proje Yürütücüsü: Erdi Daşdemir, Araştırmacılar: Murat Atalay, Volkan Bilgin, Macit Mete Oğuz.
+1.	TÜBİTAK 2219 - Yurt Dışı Doktora Sonrası Araştırma Programı (Ekim 2022 – Ekim 2023), Ödül No: 1059B192201022, Proje Yöneticisi: Erdi Dasdemir
+2.	YÖK YUDAB - Öncelikli Alanlarda Doktora Eğitimi Yapan Araştırmacılar İçin Yurt Dışı Doktora Sırası Araştırma Programı (Şubat 2019 – Aralık 2019), Proje Yöneticisi: Erdi Dasdemir
+3. Bi-Objective UAV Route Planning in Continuous Space (1 October.2015 – 31 March 2017), Air Force Office of Scientific Research, Air Force Material Command, USAF, Ödül No: FA9550-16-1-0005, Project Yöneticisi: Prof. Dr. Murat KÖKSALAN, Araştırmacılar: Erdi Dasdemir, Dr. Diclehan Tezcaner Ozturk, Hannan Tureci.
+4. Hacettepe Üniversitesi Hastaneleri Faturalandırma Sürecinin İyileştirilmesiyle Mali Kayıpların Azaltılması, TÜBİTAK, 2209- A Sanayi Entegre Proje Destek Programı, Başvuru Numarası: 1919B011202200, Proje Yürütücüsü: Erdi Daşdemir, Araştırmacılar: Murat Atalay, Volkan Bilgin, Macit Mete Oğuz.
 
 ## Yayınlar
-1. Dasdemir, E. Testik, M.C., Tezcaner Ozturk, D., Tuncer Sakar, C., Guleryuz G., Aydin O. M., (2022) “A Multi-objective open vehicle routing problem with overbooking: Exact and heuristic solution approaches for an employee transportation problem,” OMEGA - The International Journal of Management Science, 108:102587.
-2. Dasdemir, E., Koksalan M., Tezcaner Ozturk, D. (2020) “A Flexible Reference Point-Based Multi-objective Evolutionary Algorithm: An Application to the UAV Route Planning Problem”, Computers & Operations Research, 114: 104811.
-3. Aydın, O., Shaygan, A. Dasdemir, E., Soydan G. (2017) “Selecting Health Care Improvement Projects: A Methodology Integrating Cause-and-Effect Diagram and Analytical Hierarchy Process”, Quality Management in Health Care, 26.1: 40-48.
-4. Dasdemir, E., Weiss, C., Testik, M., Knoth, S. (2016) “Evaluation of Phase I Analysis Scenarios on Phase II Performance of Control Charts for Autocorrelated Observations”, Quality Engineering, 28.3:293-304.
-5. Dasdemir, S., Dasdemir, E., (2019) Nesnelerin İnterneti ve RFID Teknolojisi ile Yeni Nesil Tedarik Zinciri ve Stok Denetimi, Vergi Raporu (ULAKBIM), 236, 233-253.
+1.	Moskal M.D., Dasdemir E., Batta R. (2022) “Unmanned Aerial Vehicle Information Collection Missions with Uncertain Characteristics”, INFORMS Journal on Computing, doi:10.1287/ijoc.2022.1245.
+2.	Dasdemir, E., Batta, R., Koksalan, M., Tezcaner Ozturk, D. (2022) “UAV Routing for Reconnaissance Mission: A Multi-Objective Orienteering Problem with Time-Dependent Prizes and Multiple Connections”, Computers & Operations Research, 145: 105882.
+3.	Dasdemir, E. Testik, M.C., Tezcaner Ozturk, D., Tuncer Sakar, C., Guleryuz G., Aydin O. M., (2022) “A Multi-objective open vehicle routing problem with overbooking: Exact and heuristic solution approaches for an employee transportation problem,” OMEGA - The International Journal of Management Science, 108:102587.
+4.	Dasdemir, E., Koksalan M., Tezcaner Ozturk, D. (2020) “A Flexible Reference Point-Based Multi-objective Evolutionary Algorithm: An Application to the UAV Route Planning Problem”, Computers & Operations Research, 114: 104811.
+5.	Aydın, O., Shaygan, A. Dasdemir, E., Soydan G. (2017) “Selecting Health Care Improvement Projects: A Methodology ıntegrating Cause-and-Effect Diagram and Analytical Hierarchy Process”, Quality Management in Health Care, 26.1: 40-48.
+6.	Dasdemir, E., Weiss, C., Testik, M., Knoth, S. (2016) “Evaluation of Phase I Analysis Scenarios on Phase II Performance of Control Charts for Autocorrelated Observations”, Quality Engineering, 28.3:293-304.
+7. Dasdemir, S., Dasdemir, E., (2019) Nesnelerin İnterneti ve RFID Teknolojisi ile Yeni Nesil Tedarik Zinciri ve Stok Denetimi, Vergi Raporu (ULAKBIM), 236, 233-253.
 
     **yayın sürecindekiler**
-
-6.	Moskal M.D., Dasdemir E., Batta R. (hakem değerlendirmesinde) “Unmanned Aerial Vehicle Information Collection Missions with Uncertain Characteristics”. Operations Resarch.
-7.	Dasdemir E., Batta R., Koksalan M., Ozturk D.T. (hakem değerlendirmesinde). “UAV Routing for Reconnaissance Mission: A Multi-Objective Orienteering Problem with Time-dependent Prizes and Multiple Connections”. Under review in Computers & Operations Research.
 8.	Akduran Y., Dasdemir E., Testik M.C. (hakem değerlendirmesinde). “An Approach to Search Efficient Settings for the Operators and Parameters of Genetic Algorithms” Applied Soft Computing
 
 ## Konferans Yayınları ve Sunumları
@@ -155,6 +162,9 @@ Yöneylem araştırması, çok amaçlı optimizasyon, matematiksel programlama, 
 12.	Aydın, O., Shaygan, A. and Dasdemir, E. “A Cause and Effect Diagram and AHP Based Methodology for Selection of Quality Improvement Projects", European Network for Business and Industrial Statistics (ENBIS) 14 Conference, Linz, Avusturya, 21-25 Eylül 2014.
 13.	Sonmez, V., Dasdemir, E., Testik, M. and Aydin, O. “A Simulation Based Decision Support Tool for Hospital Bed Capacity Planning”, Proceedings of Global Conference on Healthcare Systems Engineering (GCHSE) 2014, İstanbul, Türkiye, 5-8 Ağustos, 2014.
 14.	Dasdemir, E., Oguz, M., Atalay, M., Bilgin, V., Testik, M. and Soydan, G. “Improving Hospital Billing Processes for Reducing Costs of Billing Errors”, European Network for Business and Industrial Statistics (ENBIS) 13 Conference, Ankara, Türkiye, 15-19 Eylül 2013.
+
+## Ödüller
+- "OMEGA - The International Journal of Management Science" dergisi 2022 "Best Reviewer Award" (yılın hakemi ödülü)
 
 ## Profesyonel Sertifikalar
 -	University of Michigan, Programming for Everybody (Python).

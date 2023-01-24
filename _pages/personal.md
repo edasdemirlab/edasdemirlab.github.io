@@ -63,7 +63,7 @@ Mathematical optimization, multi-objective optimization, data analytics, evoluti
 7.	Dasdemir, S., Dasdemir, E., (2019) Next Generation Supply Chain and Stock Control with Internet of Things and RFID, Vergi Raporu (ULAKBIM), 236, 233-253.
 
      **Publications in Process**
-8.	Akduran Y., Dasdemir E., Testik M.C. (in submission). “An Approach to Search Efficient Settings for the Operators and Parameters of Genetic Algorithms” Applied Soft Computing.
+8.	Akduran Y., Dasdemir E., Testik M.C. (in review process). “An Approach to Search Efficient Settings for the Operators and Parameters of Genetic Algorithms”.
 
 
 ## Conferences
@@ -145,7 +145,7 @@ Matematiksel optimizasyon, çok amaçlı optimizasyon, veri analitiği, evrimsel
 7. Dasdemir, S., Dasdemir, E., (2019) Nesnelerin İnterneti ve RFID Teknolojisi ile Yeni Nesil Tedarik Zinciri ve Stok Denetimi, Vergi Raporu (ULAKBIM), 236, 233-253.
 
     **yayın sürecindekiler**
-8.	Akduran Y., Dasdemir E., Testik M.C. (hakem değerlendirmesinde). “An Approach to Search Efficient Settings for the Operators and Parameters of Genetic Algorithms” Applied Soft Computing
+8.	Akduran Y., Dasdemir E., Testik M.C. (hakem değerlendirmesinde). “An Approach to Search Efficient Settings for the Operators and Parameters of Genetic Algorithms”
 
 ## Konferans Yayınları ve Sunumları
 1. Dasdemir, E., Tezcaner Öztürk D., Koksalan, M. “Sürekli Arazide Hareket Modellemesi ile İnsansız Hava Araçları için Çok Amaçlı Rotalama”, YAEM 2021, Çevrim içi, 04-07 Temmuz 2021.

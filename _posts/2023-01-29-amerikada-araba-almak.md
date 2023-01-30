@@ -120,7 +120,7 @@ Bizdeki kurumsal oto galericilere denk geliyor ([VavaCars](https://tr.vava.cars/
 
 Bunlarda [CarMax](https://www.carmax.com), [Carvana](https://www.carvana.com) gibi online satış yapanları da var, internetten alıyorsunuz evinize geliyor.  
 
-> REKLAM --- Carvana’ya operasyonlarının optimizasyonunda danışmanlık yapan ekipte yer aldığım için ayrı bir sempatim var --- REKLAM.
+> REKLAM --- Carvana’ya operasyonlarının optimizasyonunda danışmanlık yapan ekipte yer aldığım için ayrı bir sempatim var, en güvenilir onlar, en iyi onlar, en süper onlar ama maalesef ben onlardan alamadım. --- REKLAM.
 
 Çevrim içi satış olayı güzel ama yeni Amerika’ya gelmiş biri için hem ödeme işi (henüz banka hesabı olmaması vb.) hem de görmeden sipariş verecek olmak süreci gözünüzde büyütmenize neden oluyor. Bunların bazı yerlerde arabaları görebileceğiniz galerileri de var. Özellikle CarMax’ın daha yaygın. Orada gidip bayideki gibi oyun oynamayan satış temsilcileriyle yüz yüze görüşmek ve araba bulunduğunuz bölgedeyse getirtip deneme sürüşü yapabilmek güvenli hissettiriyor. Bunların dışında tabi çevrimiçi çalışmayan ancak bölgesel ve ülke genelinde onlarca şubesi olan kurumsal şirketlerde var.
 

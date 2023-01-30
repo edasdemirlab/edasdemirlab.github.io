@@ -163,11 +163,11 @@ Ben bu seçeneği hiç düşünmedim çünkü ABD’ye yeni taşınmış olmam v
 
 Genel olarak TR’de nasıl seçiyorsanız öyle seçilir. Arabalardan anlıyorsanız bir sıfır öndesiniz. Anlamıyorsanız iş biraz şansa kalacak. Konumuzun ikinci el araba olduğunu unutmadan aşağıdakiler benim Amerika özelindeki kişisel tavsiyelerimdir:
 
-**I.	Amerikan arabalarından (jeep, ford, chevrolet vb.) uzak duruyoruz:**
+**I.	Amerikan arabalarından (jeep, ford, chevrolet vb.) uzak duralım:**
 
   Tüm dealerlarda zibil gibi Amerikan arabası var. Bunların fiyatları nispeten cezbedici ve tipleri de güzel. Özellikle Jeep SUV’lar şekil şükül.  TR’den gelip bu güzel tipli SUV’ları görünce insanı ağzı düşüyor. Peki neden uzak duruyoruz? Öncelikle malzeme kaliteleri ve güvenilirlikleri düşük. Aksini söyleyen de olsak düşük kere düşük efendim. Ömürleri kısa Çok dikkatli olmazsanız başınızı tamirciden çıkarmayacak bir araba alıyor olabilirsiniz. Alacağımız arabalarda ikinci el olacağı için dikkat seviyemizi maksimuma çıkarmamız lazım. 5 yıldan eski ve 100.000’kmden yüksek Amerikan arabaları genel olarak uzak durmamız gereken arabalar. Ayrıca bu arabaları satarken zorlanacaksınız veya ölü fiyatına vereceksiniz. Sıfırı zaten ucuz ve ömrü kısa diye ikinci ellerin fiyatlar düşük.
 
-**II.	Avrupa menşeli arabalar:**
+**II.	Avrupa menşeli arabalardan vazgeçelim:**
  BMW, Mercedes, Volvo ve nispeten Opel ve Volkswagen’den uzak duruyoruz. Peugeot, Renault ve Fiat arabayı isteseniz de zaten bulamazsınız.  Aklıma başka marka gelmedi, ama liste büyüyebilir. Peki neden uzak duruyoruz? Aslında çok güzel BMW’lere Mercedes’lere uygun fiyatlara denk geldim. Almayı da düşündüm ta ki Türkiye’de ustalık öğrenmiş bir Bosa-Hersekli usta bana işin sırrını söyleyene kadar. Bu arabaları tamir edecek usta bulmak zor dostlar ve bizim sanayici deyimiyle malzemesi pahalı. Bizim Bosnalı ve Filistinli arkadaşı, bu işleri Türkiye ve Balkanlar’da öğrenmişler. Japon arabasının arızasının tamiri x dolarsa, aynı tamiri Alman arabasında 2x dolara yapıyoruz dediler. Sanayimize sahip çıkalım, beyin göçü veriyor.
 
 **III.	Çekiklere güvenelim:**

@@ -173,7 +173,7 @@ Genel olarak TR’de nasıl seçiyorsanız öyle seçilir. Arabalardan anlıyors
 **III.	Çekiklere güvenelim:**
  Geriye zaten seçenek bırakmadım ama Japon ve Güney Kore arabalarını tercih edebiliriz. Bu araçları TR’den de bildiğiniz üzere uzun ömürlü arabalar. Genel olarak düzgün sürülmüş bir arabanın motor arızası çıkaracağı km’ler 400.000’ler üzeri. Ustası çok, malzemesi ucuz. Satarken de piyasası iyi. Çok değer kaybetmeden kısa süre içerisinde satabilirsiniz. Benim sıralamam Mazda, Honda, Toyota, Hyundai, Kia şeklinde.
 
-**IV.	Alacağınız arabanın geçmişine bakın:**
+**IV.	Alacağımız arabanın geçmişine bakalım:**
  Girişte bahsetmiştim ama yazının bütünlüğü için burada tekrar edeceğim. Amerika’da araçların VIN (vehicle identification number) denen bir kimlik numarası var. Bu numara ile CARFAX.com’dan araba geçmişine (bizdeki tramer kaydı) bakmakta fayda var. CARFAX ücretli tabi ve bence pahalı. Bir rapor 40$, altı rapor 100$ gibi bir şeydi. Paraya kıyamazsanız da Google’dan arayıp alternatif ücretsiz rapor sağlayıcılara bakabilirsiniz. Bir seçenek olarak da aracı aldığınız dealer’ların sınırsız CARFAX üyelikleri var. Onlara madem aracın temiz diye iddia ediyorsun CARFAX raporunu göster de görelim diye gaz verebilirsiniz. Ben böyle yaptım, göstermeyene denk gelmedim. Göstermiyorsa zaten uzak durun. Özellikle alacağınız araba geçmişte hırsızlık, büyük kazalar vb. gibi olaylara karışmışsa zorunlu trafik sigorta ücretinizi de artıracak. Bu nedenle dikkat etmekte fayda var.
 
 

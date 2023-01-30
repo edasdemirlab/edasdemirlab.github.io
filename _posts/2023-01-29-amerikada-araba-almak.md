@@ -141,7 +141,7 @@ Eksiler: Aldığınız arabanın patlama ve başınızı tamircilerden kaldıram
 
 ### d. Şahıs
 
-Bu TR’de bizim yaygın olarak kullandığımız başka birinden aracı satın almak. [Craiglist](https://www.craiglist.com) olmak üzere bizim [sarı siteye](https://www.sahibinden.com) benzer araç satış ilanları olan yerler var. Beğendiğiniz araçların sahibini arıyor, gidip aracı görüyor, sonra da alıyorsunuz. Tanıdık biri olursa ve ondan alırsanız en mükemmeli tabi.
+Bu TR’de bizim yaygın olarak kullandığımız başka birinden aracı satın almak. [Craiglist](https://www.craiglist.org) olmak üzere bizim [sarı siteye](https://www.sahibinden.com) benzer araç satış ilanları olan yerler var. Beğendiğiniz araçların sahibini arıyor, gidip aracı görüyor, sonra da alıyorsunuz. Tanıdık biri olursa ve ondan alırsanız en mükemmeli tabi.
 
 Ben bu seçeneği hiç düşünmedim çünkü ABD’ye yeni taşınmış olmam ve ABD’de ilk kez araba alacak olmam nedeniyle formalite işlerinden korkuyordum. Şahıstan satın alımlarda temel olarak 2 prosedür var. İlki New York eyaletinde her aracın satış öncesi muayeneye girmesi gerekiyor. Bizdeki araç muayenesi gibi. Bu muayeneyi geçebilmek için arabanın iyi durumda olması ve varsa eksik bakımlarının yaptırılması gerek. İkincisi de aracın ruhsatınızı kendi isminize çevirmeniz. Bu ikisi de aslında basit süreçler ama bilmeyenin gözü korkabiliyor. Normalde muayene işini satıcının halletmesi lazım, ruhsat işini de satıcıdan alacağınız bir imza ile DMV’ye gittiğinizde kolayca halledebiliyorsunuz.
 

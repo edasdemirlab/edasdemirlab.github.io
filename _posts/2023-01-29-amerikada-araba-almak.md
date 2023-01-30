@@ -71,10 +71,13 @@ Birincisi bunu yapan sigorta şirketi az olduğu için fiyat seçeneğiniz az. �
 3. Arabayı seçtikten sonra yapılacaklar (ruhsat vb.)
 4. Nakit ve kredi kullanımı
 
+<br>
+<br>
 
-# 1. Araba nereden alınır?
 
-## a. Bayi:
+## 1. Araba nereden alınır?
+
+### a. Bayi:
 
 Bizdeki gibi markaların bayilerinden alabilirsiniz. Bunların temel amacı sıfır araba satmak olsa da birçoğu ikinci el araba satışı da yapar.
 
@@ -107,7 +110,7 @@ Sonuç olarak eğer çıldırmamayı başarır ve sakin kalırsanız buradaki ar
 
 
 
-## b. Kurumsal Dealer
+### b. Kurumsal Dealer
 
 Bizdeki kurumsal oto galericilere denk geliyor ([VavaCars](https://tr.vava.cars/) vb. gibi) ama bizdeki en kurumsalı bile sıkıntılı tabi. Neyse bunlarda da hem süreç yağ gibi akıyor hem de eli yüzü düzgün iş yerleri ve insanlarla muhatap oluyorsunuz.
 
@@ -122,7 +125,7 @@ Artısı: Güvenilir olmaları ve çeşitlilik. Bunların elinde genelde tonla a
 Eksisi: Fiyatların bayidekilere yakın olması, yani yerel sayıcılara göre %20 civarı daha fazla olması. Ellerindeki seçeneğin çok olmasına rağmen bu araçların birçoğunun farklı şehirlerde bulunması nedeniyle deneme sürüşü yapamamanız.
 
 
-## c. Yerel Dealer
+### c. Yerel Dealer
 Bu benim en sevdiğim çünkü sorumluluk alıyor ve halka iniyoruz. Bunlar genellikle sokak aralarındaki tamirciler ve yerel aile işletmeleri. Muhatap olduğumuz tiplerin %50’si eli yüzü düzgün olmayan kişiler. Buffalo’da böyle 10-15 yer gezdim. Benim için güzel olanı tamirhaneleri görmek, yerel satıcılarla sohbet etmek oldu. Ustalığın buradaki değerini gördüm. Çoğu tamirhanenin dandik olduğunu ve usta ihtiyacını gördüm. Amerikan markaları nezdinde problem yok ama özellikle Avrupa menşeli araçlar (BMW, Mercedes, Volvo vb.) ustasını bulmak epey zor. Birkaç yerde bizim Türkiye’de ve balkan ülkelerinde bu işi öğrenip buraya gelmiş olan ustalara denk geldim. Benim Bartın Sanayi’deki ustam motorcu Hüseyin usta burada olsa paraya para demezdi.
 
 Bu abilerde genelde fiyatlar düşük. Ellerinde her çeşit araba var. 2005 model 300.000 km arabadan tutun 2021 model 10.000 km arabaya kadar. Fiyatlar da yukarıdaki (a) ve (b) seçeneklerine göre uygun ancak kurumsallık olmadığı için aldığınız araçların güvenilirliği tartışılır. Arabadan anlıyorsanız biraz riski azaltmış olursunuz. Ben orta derece anlayan bir insanım. Bir iki beğendiğim arabada sürüş esnasında ses ve titreşim gibi tuhaf şeyler hissedip vazgeçtim. Buradan araç alacaksınız arabanın geçmiş kayıtlarına iyi bakmak lazım. Burada her aracın VIN (vehicle identification number) denen bir kimlik numarası var. Bu numara ile [CARFAX.com](www.carfax.com)’dan araba geçmişine (bizdeki tramer kaydı) bakmakta fayda var. [CARFAX](www.carfax.com) ücretli tabi ve bence pahalı. Bir rapor 40$, altı rapor 100$ gibi bir şeydi. Paraya kıyamazsanız da Google’dan arayıp alternatif ücretsiz rapor sağlayıcılara bakabilirsiniz. Bunların kayıtlar limitli oluyor ama yine de fikir veriyor. Bir seçenek olarak da aracı aldığınız dealer’ların sınırsız [CARFAX](www.carfax.com) üyelikleri var. Onlara madem aracın temiz diye iddia ediyorsun [CARFAX](www.carfax.com) raporunu göster de görelim diye gaz verebilirsiniz. Ben böyle yaptım, göstermeyene denk gelmedim. Göstermiyorsa zaten uzak durun. Özellikle alacağınız araba geçmişte hırsızlık, büyük kazalar vb. gibi olaylara karışmışsa zorunlu trafik sigorta ücretinizi de artıracak. Bu nedenle dikkat etmekte fayda var.
@@ -132,7 +135,7 @@ Artıları: Düşük fiyatlar.
 Eksiler: Aldığınız arabanın patlama ve başınızı tamircilerden kaldıramama riski.
 
 
-## d. Şahıs
+### d. Şahıs
 
 Bu TR’de bizim yaygın olarak kullandığımız başka birinden aracı satın almak. [Craiglist](www.craiglist.com) olmak üzere bizim [sarı siteye](www.sahibinden.com) benzer araç satış ilanları olan yerler var. Beğendiğiniz araçların sahibini arıyor, gidip aracı görüyor, sonra da alıyorsunuz. Tanıdık biri olursa ve ondan alırsanız en mükemmeli tabi.
 
@@ -151,7 +154,7 @@ Ben aracımı alırken (c) seçeneği yerel dealer’ı seçtim. Başlıca neden
 Aldığım araç 2008, 220.000km’de Hyundai Santa Fe. Fiyatı 7500$. Yılı eski, km’si çok falan derken çok da para harcamak istemediğim için arabayı aldım. Fiyatı TR’de sarı sitedeki 1994 opel corsa fiyatı.  Türkiye’de 2017 Hyundai i20 aracım var. Biraz da Hyundai olması sıcak hissettirdi. Şimdiye kadar (3 ayı devirdik) araçtan çok memnunuz. İnşallah bu yazıyı okuyan siz sevgili suserların da nazarı değmez. SUV sınıfındaki birçok arabadan daha yüksek. Sürüş konforu muhteşem. 2008 araba ama Sunroof’undan deri koltuğuna, koltuk ısıtmasından hız sabitleyiciye kadar yok yok. Biraz çok yakıyor diyebiliriz ama o da burada benzin nispeten ucuz olduğu için gözümüze batmıyor. Düşünün 2017 i20’den 2008 Santa Fe’ye binince eşekten inip ata binmişim gibi hissettim. Zamanda 9 yıl geri gideceğime 9 yıl öne gitmiş gibi oldum. Fakirliğin gözü kör olsun, bizim oralarda i20'ye iyi araba diye biniyoruz.
 
 
-# Araba nasıl seçilir?
+## Araba nasıl seçilir?
 
 Genel olarak TR’de nasıl seçiyorsanız öyle seçilir. Arabalardan anlıyorsanız 1-0 öndesiniz. Anlamıyorsanız iş biraz şansa kalacak. Konumuzun ikinci el araba olduğunu unutmadan aşağıdakiler benim Amerika özelindeki kişisel tavsiyelerimdir:
 
@@ -169,7 +172,7 @@ Genel olarak TR’de nasıl seçiyorsanız öyle seçilir. Arabalardan anlıyors
  Girişte bahsetmiştim ama yazının bütünlüğü için burada tekrar edeceğim. Amerika’da araçların VIN (vehicle identification number) denen bir kimlik numarası var. Bu numara ile CARFAX.com’dan araba geçmişine (bizdeki tramer kaydı) bakmakta fayda var. CARFAX ücretli tabi ve bence pahalı. Bir rapor 40$, altı rapor 100$ gibi bir şeydi. Paraya kıyamazsanız da Google’dan arayıp alternatif ücretsiz rapor sağlayıcılara bakabilirsiniz. Bir seçenek olarak da aracı aldığınız dealer’ların sınırsız CARFAX üyelikleri var. Onlara madem aracın temiz diye iddia ediyorsun CARFAX raporunu göster de görelim diye gaz verebilirsiniz. Ben böyle yaptım, göstermeyene denk gelmedim. Göstermiyorsa zaten uzak durun. Özellikle alacağınız araba geçmişte hırsızlık, büyük kazalar vb. gibi olaylara karışmışsa zorunlu trafik sigorta ücretinizi de artıracak. Bu nedenle dikkat etmekte fayda var.
 
 
-# Formalitesi çok mu?
+## Formalitesi çok mu?
 
 > KSIA CEVAP: Çok değil ama yapmanız gerekenler ilk kez yapacaklar için çantada keklik değil.
 
@@ -204,7 +207,7 @@ Bu işlemleri tamamlayan dealer sizi arıyor. Gidip kalan parayı ödeyip aracı
 Aracınızı dealer değil de 1.d seçeneğini izleyip şahıstan alırsanız ruhsat ve plaka işini DMV’ye giderek sizin halletmeniz gerek.
 
 
-# 4. Nakit ve kredi kullanımı
+## 4. Nakit ve kredi kullanımı
 
 Amerika’da 2 yöntemle araç edinebilirsiniz: (a) satın alarak, (b) uzun dönem kiralama (leasing).
 

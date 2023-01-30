@@ -161,7 +161,7 @@ Ben bu seçeneği hiç düşünmedim çünkü ABD’ye yeni taşınmış olmam v
 
 ## 2. Araba nasıl seçilir?
 
-Genel olarak TR’de nasıl seçiyorsanız öyle seçilir. Arabalardan anlıyorsanız 1-0 öndesiniz. Anlamıyorsanız iş biraz şansa kalacak. Konumuzun ikinci el araba olduğunu unutmadan aşağıdakiler benim Amerika özelindeki kişisel tavsiyelerimdir:
+Genel olarak TR’de nasıl seçiyorsanız öyle seçilir. Arabalardan anlıyorsanız bir sıfır öndesiniz. Anlamıyorsanız iş biraz şansa kalacak. Konumuzun ikinci el araba olduğunu unutmadan aşağıdakiler benim Amerika özelindeki kişisel tavsiyelerimdir:
 
 **I.	Amerikan arabalarından (jeep, ford, chevrolet vb.) uzak duruyoruz.**
 

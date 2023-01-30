@@ -179,7 +179,7 @@ Genel olarak TR’de nasıl seçiyorsanız öyle seçilir. Arabalardan anlıyors
 
 ## Formalitesi çok mu?
 
-> KSIA CEVAP: Çok değil ama yapmanız gerekenler ilk kez yapacaklar için çantada keklik değil.
+> KSIA CEVAP: Çok değil ama yapılması gerekenler ilk kez yapacaklar için çantada keklik değil.
 
 Arabayı bir dealer’dan (madde 1 – a, b veya c seçeneği) alırsanız DMV (motorlu taşıtlar bölümü) ile yapılan tüm formaliteyi onlar hallediyor. Arabaya karar verdiniz ve dealer ile fiyat konusunda anlaştınız. Sizden bir miktar kaporta (benden 200$ istemişti) ve iki şey isteyecekler:
 

@@ -163,7 +163,7 @@ Ben bu seçeneği hiç düşünmedim çünkü ABD’ye yeni taşınmış olmam v
 
 Genel olarak TR’de nasıl seçiyorsanız öyle seçilir. Arabalardan anlıyorsanız bir sıfır öndesiniz. Anlamıyorsanız iş biraz şansa kalacak. Konumuzun ikinci el araba olduğunu unutmadan aşağıdakiler benim Amerika özelindeki kişisel tavsiyelerimdir:
 
-**I.	Amerikan arabalarından (jeep, ford, chevrolet vb.) uzak duruyoruz.**
+**I.	Amerikan arabalarından (jeep, ford, chevrolet vb.) uzak duruyoruz:**
 
   Tüm dealerlarda zibil gibi Amerikan arabası var. Bunların fiyatları nispeten cezbedici ve tipleri de güzel. Özellikle Jeep SUV’lar şekil şükül.  TR’den gelip bu güzel tipli SUV’ları görünce insanı ağzı düşüyor. Peki neden uzak duruyoruz? Öncelikle malzeme kaliteleri ve güvenilirlikleri düşük. Aksini söyleyen de olsak düşük kere düşük efendim. Ömürleri kısa Çok dikkatli olmazsanız başınızı tamirciden çıkarmayacak bir araba alıyor olabilirsiniz. Alacağımız arabalarda ikinci el olacağı için dikkat seviyemizi maksimuma çıkarmamız lazım. 5 yıldan eski ve 100.000’kmden yüksek Amerikan arabaları genel olarak uzak durmamız gereken arabalar. Ayrıca bu arabaları satarken zorlanacaksınız veya ölü fiyatına vereceksiniz. Sıfırı zaten ucuz ve ömrü kısa diye ikinci ellerin fiyatlar düşük.
 

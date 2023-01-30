@@ -183,7 +183,7 @@ Genel olarak TR’de nasıl seçiyorsanız öyle seçilir. Arabalardan anlıyors
 
 Arabayı bir dealer’dan (madde 1 – a, b veya c seçeneği) alırsanız DMV (motorlu taşıtlar bölümü) ile yapılan tüm formaliteyi onlar hallediyor. Arabaya karar verdiniz ve dealer ile fiyat konusunda anlaştınız. Sizden bir miktar kaporta (benden 200$ istemişti) ve iki şey isteyecekler:
 
-**I.	Zorunlu trafik sigortası yaptırmanız:**
+**I.	Zorunlu trafik sigortası:**
  Sigorta olmadan ruhsat işlemi yapılmıyor. Burada her arabanın VIN (vehicle identification number) denen bir numarası var. Bu numara ön cam üzerinde gözükebilecek şekilde yazılı oluyor. Bu numarayı kullanarak araca sigorta yaptırıyorsunuz. Burada cevabını bulması zor olan soru şu: “TR Ehliyetimle sigorta yaptırabilir miyim?”, cevap EVET ancak amaları var. Birincisi bunu yapan sigorta şirketi az olduğu için fiyat seçeneğiniz az. İkincisi geçmişe ait bir sigorta veya ehliyet kaydınız olmadığı için fiyatın yüksek çıkması. Ben sigortamı Progressive şirketi ile internet üzerinden yaptım. 6 Ay için 875$ dolar tuttu. İlk iki ayı peşin, kalanları aylık olarak ödeyeceğim bir plan verdiler.,
 
 **II.	Ruhsat için gerekli olan kimlik doğrulama belgeleri:**

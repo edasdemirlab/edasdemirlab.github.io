@@ -61,7 +61,7 @@ Bu 6 puanı sağladıktan sonra önemli bir nokta daha var: Satın alacağınız
 
 > Kısa Cevap: YAPTIRABİLİRSİNİZ ancak yine amaları var.
 
-Birincisi bunu yapan sigorta şirketi az olduğu için fiyat seçeneğiniz az. İkincisi geçmişe ait bir sigorta veya ehliyet kaydınız olmadığı için sigorta fiyatı yüksek çıkacak. TR ehliyetiyle sigorta yapan en popüler ve büyük şirket Progressive. Direk web sayfaları üzerinden teklif alıp sigortanızı başlatabiliyorsunuz.
+Birincisi bunu yapan sigorta şirketi az olduğu için fiyat seçeneğiniz az. İkincisi geçmişe ait bir sigorta veya ehliyet kaydınız olmadığı için sigorta fiyatı yüksek çıkacak. TR ehliyetiyle sigorta yapan en popüler ve büyük şirket [Progressive](https://www.progressive.com/). Direk web sayfaları üzerinden teklif alıp sigortanızı başlatabiliyorsunuz.
 
 
 Şimdi detaylara geçebiliriz. Bu yazının başlıkları şunlardır, bütünü okumanızı tavsiye etsem de direk ilgilenen bölüme atlanabilir. Ayrıca daha özet bilgiler için ekşisözlükteki şu [entry’e](https://eksisozluk.com/entry/42858814) de bakmanızı da tavsiye ederim.
@@ -184,7 +184,7 @@ Genel olarak TR’de nasıl seçiyorsanız öyle seçilir. Arabalardan anlıyors
 Arabayı bir dealer’dan (madde 1 – a, b veya c seçeneği) alırsanız DMV (motorlu taşıtlar bölümü) ile yapılan tüm formaliteyi onlar hallediyor. Arabaya karar verdiniz ve dealer ile fiyat konusunda anlaştınız. Sizden bir miktar kaporta (benden 200$ istemişti) ve iki şey isteyecekler:
 
 **I.	Zorunlu trafik sigortası:**
- Sigorta olmadan ruhsat işlemi yapılmıyor. Burada her arabanın VIN (vehicle identification number) denen bir numarası var. Bu numara ön cam üzerinde gözükebilecek şekilde yazılı oluyor. Bu numarayı kullanarak araca sigorta yaptırıyorsunuz. Burada cevabını bulması zor olan soru şu: “TR Ehliyetimle sigorta yaptırabilir miyim?”, cevap EVET ancak amaları var. Birincisi bunu yapan sigorta şirketi az olduğu için fiyat seçeneğiniz az. İkincisi geçmişe ait bir sigorta veya ehliyet kaydınız olmadığı için fiyatın yüksek çıkması. Ben sigortamı Progressive şirketi ile internet üzerinden yaptım. 6 Ay için 875$ dolar tuttu. İlk iki ayı peşin, kalanları aylık olarak ödeyeceğim bir plan verdiler.,
+ Sigorta olmadan ruhsat işlemi yapılmıyor. Burada her arabanın VIN (vehicle identification number) denen bir numarası var. Bu numara ön cam üzerinde gözükebilecek şekilde yazılı oluyor. Bu numarayı kullanarak araca sigorta yaptırıyorsunuz. Burada cevabını bulması zor olan soru şu: “TR Ehliyetimle sigorta yaptırabilir miyim?”, cevap EVET ancak amaları var. Birincisi bunu yapan sigorta şirketi az olduğu için fiyat seçeneğiniz az. İkincisi geçmişe ait bir sigorta veya ehliyet kaydınız olmadığı için fiyatın yüksek çıkması. Ben sigortamı [Progressive](https://www.progressive.com/) şirketi ile internet üzerinden yaptım. 6 Ay için 875$ dolar tuttu. İlk iki ayı peşin, kalanları aylık olarak ödeyeceğim bir plan verdiler.,
 
 **II.	Ruhsat için gerekli olan kimlik doğrulama belgeleri:**
   NY eyaletinde kimlik bilgilerinizi doğrulayabilmeleri için 6 puan toplamalısınız. Bu yazının girişinde bahsettim ama yazı bütünlüğünü korumak için burada da tekrar edelim. NY eyaletinden alınmış ehliyet direk 6 puan. Diğer eyaletlerden alınmış olanlar 4 puan. TR’den geldik, bizde ikisi de yok, o zaman ekmeğimizi taştan çıkaracağız. Puan alabileceğiniz seçeneklerin tam listesi şurada: [DMV Belge Lisetsi](https://dmv.ny.gov/registration/proofs-identity-and-date-birth-nys-vehicle-registrations-or-title-certificates)

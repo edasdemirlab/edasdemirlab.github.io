@@ -124,9 +124,9 @@ Bunlarda [CarMax](https://www.carmax.com), [Carvana](https://www.carvana.com) gi
 
 Çevrim içi satış olayı güzel ama yeni Amerika’ya gelmiş biri için hem ödeme işi (henüz banka hesabı olmaması vb.) hem de görmeden sipariş verecek olmak süreci gözünüzde büyütmenize neden oluyor. Bunların bazı yerlerde arabaları görebileceğiniz galerileri de var. Özellikle CarMax’ın daha yaygın. Orada gidip bayideki gibi oyun oynamayan satış temsilcileriyle yüz yüze görüşmek ve araba bulunduğunuz bölgedeyse getirtip deneme sürüşü yapabilmek güvenli hissettiriyor. Bunların dışında tabi çevrimiçi çalışmayan ancak bölgesel ve ülke genelinde onlarca şubesi olan kurumsal şirketlerde var.
 
-Artısı: Güvenilir olmaları ve çeşitlilik. Bunların elinde genelde tonla araba oluyor ve bayidekine benzer şekilde buradan alacağınız arabalar genelde eli yüzü düzgün.
+**Artısı**: Güvenilir olmaları ve çeşitlilik. Bunların elinde genelde tonla araba oluyor ve bayidekine benzer şekilde buradan alacağınız arabalar genelde eli yüzü düzgün.
 
-Eksisi: Fiyatların bayidekilere yakın olması, yani yerel sayıcılara göre %20 civarı daha fazla olması. Ellerindeki seçeneğin çok olmasına rağmen bu araçların birçoğunun farklı şehirlerde bulunması nedeniyle deneme sürüşü yapamamanız.
+**Eksisi:** Fiyatların bayidekilere yakın olması, yani yerel sayıcılara göre %20 civarı daha fazla olması. Ellerindeki seçeneğin çok olmasına rağmen bu araçların birçoğunun farklı şehirlerde bulunması nedeniyle deneme sürüşü yapamamanız.
 
 
 ### c. Yerel Dealer
@@ -145,18 +145,19 @@ Bu TR’de bizim yaygın olarak kullandığımız başka birinden aracı satın 
 
 Ben bu seçeneği hiç düşünmedim çünkü ABD’ye yeni taşınmış olmam ve ABD’de ilk kez araba alacak olmam nedeniyle formalite işlerinden korkuyordum. Şahıstan satın alımlarda temel olarak 2 prosedür var. İlki New York eyaletinde her aracın satış öncesi muayeneye girmesi gerekiyor. Bizdeki araç muayenesi gibi. Bu muayeneyi geçebilmek için arabanın iyi durumda olması ve varsa eksik bakımlarının yaptırılması gerek. İkincisi de aracın ruhsatınızı kendi isminize çevirmeniz. Bu ikisi de aslında basit süreçler ama bilmeyenin gözü korkabiliyor. Normalde muayene işini satıcının halletmesi lazım, ruhsat işini de satıcıdan alacağınız bir imza ile DMV’ye gittiğinizde kolayca halledebiliyorsunuz.
 
-Artısı: Arada bir dealer yani aracı olmadığı için en uygun fiyat seçeneğinin bu olması.
+**Artısı:** Arada bir dealer yani aracı olmadığı için en uygun fiyat seçeneğinin bu olması.
 
-Eksisi: Formalite işleriyle (muayene, ruhsat çıkarma vb.) sizin uğraşacak olmanız, (c) seçeneğindeki gibi aldığınız arabanın patlama ve tamircilerle boğuşma riski
+**Eksisi:** Formalite işleriyle (muayene, ruhsat çıkarma vb.) sizin uğraşacak olmanız, (c) seçeneğindeki gibi aldığınız arabanın patlama ve tamircilerle boğuşma riski
 
+<div class="notice--success">
+<i class="far fa-sticky-note"></i>  
 
+<p>Ben aracımı alırken (c) seçeneği yerel dealer’ı seçtim. Başlıca nedenlerim (a)’da yaşadığım sürece sinir olmam, (b)’de fiyatları yüksek bulmam, (d)’de ise prosedürleri tek halledecek olmaktan çekinmemdi. Ayrıca Amerika’ya bir yıllığına gelmiş olduğum ve beni bir sene idare edecek mümkün olan en ucuz arabayı almak istedim. Biliyorum ki Amerika’da bizdeki gibi araba alayım değerlenir yok ve araba değer kaybedecek. Kaybı azaltmak istedim.</p>
 
-Ben aracımı alırken (c) seçeneği yerel dealer’ı seçtim. Başlıca nedenlerim (a)’da yaşadığım sürece sinir olmam, (b)’de fiyatları yüksek bulmam, (d)’de ise prosedürleri tek halledecek olmaktan çekinmemdi. Ayrıca Amerika’ya bir yıllığına gelmiş olduğum ve beni bir sene idare edecek mümkün olan en ucuz arabayı almak istedim. Biliyorum ki Amerika’da bizdeki gibi araba alayım değerlenir yok ve araba değer kaybedecek. Kaybı azaltmak istedim.
+<p>Önce Google Maps’te Buffalo’ya gelip, “used cars” araması yaptım. Çıkan tüm dealer’ların yorumlarını okuyarak az sayıda yorumu olan, fake yorumları çok olan (daha önce yorumu olmayan kişiler tarafından çok yorum almış) ve yorumların içerisinde kötü ve ciddi eleştiri olanları eledim. Yani azıcık beyni (common sense) kullanmak gerekiyor. Geriye 10-15 yer kaldı. Bunları “gitmek istediğim yer” etiketi koydum. Tamamını gezip beğendiğim arabaları deneme sürüşü yaptım. En sonda en çok içime sinen araba ve satıcı kombinasyonundan arabamı aldım.</p>
 
-Önce Google Maps’te Buffalo’ya gelip, “used cars” araması yaptım. Çıkan tüm dealer’ların yorumlarını okuyarak az sayıda yorumu olan, fake yorumları çok olan (daha önce yorumu olmayan kişiler tarafından çok yorum almış) ve yorumların içerisinde kötü ve ciddi eleştiri olanları eledim. Yani azıcık beyni (common sense) kullanmak gerekiyor. Geriye 10-15 yer kaldı. Bunları “gitmek istediğim yer” etiketi koydum. Tamamını gezip beğendiğim arabaları deneme sürüşü yaptım. En sonda en çok içime sinen araba ve satıcı kombinasyonundan arabamı aldım.
-
-Aldığım araç 2008, 220.000km’de Hyundai Santa Fe. Fiyatı 7500$. Yılı eski, km’si çok falan derken çok da para harcamak istemediğim için arabayı aldım. Fiyatı TR’de sarı sitedeki 1994 opel corsa fiyatı.  Türkiye’de 2017 Hyundai i20 aracım var. Biraz da Hyundai olması sıcak hissettirdi. Şimdiye kadar (3 ayı devirdik) araçtan çok memnunuz. İnşallah bu yazıyı okuyan siz sevgili suserların da nazarı değmez. SUV sınıfındaki birçok arabadan daha yüksek. Sürüş konforu muhteşem. 2008 araba ama Sunroof’undan deri koltuğuna, koltuk ısıtmasından hız sabitleyiciye kadar yok yok. Biraz çok yakıyor diyebiliriz ama o da burada benzin nispeten ucuz olduğu için gözümüze batmıyor. Düşünün 2017 i20’den 2008 Santa Fe’ye binince eşekten inip ata binmişim gibi hissettim. Zamanda 9 yıl geri gideceğime 9 yıl öne gitmiş gibi oldum. Fakirliğin gözü kör olsun, bizim oralarda i20'ye iyi araba diye biniyoruz.
-
+<p>Aldığım araç 2008, 220.000km’de Hyundai Santa Fe. Fiyatı 7500$. Yılı eski, km’si çok falan derken çok da para harcamak istemediğim için arabayı aldım. Fiyatı TR’de sarı sitedeki 1994 opel corsa fiyatı.  Türkiye’de 2017 Hyundai i20 aracım var. Biraz da Hyundai olması sıcak hissettirdi. Şimdiye kadar (3 ayı devirdik) araçtan çok memnunuz. İnşallah bu yazıyı okuyan siz sevgili suserların da nazarı değmez. SUV sınıfındaki birçok arabadan daha yüksek. Sürüş konforu muhteşem. 2008 araba ama Sunroof’undan deri koltuğuna, koltuk ısıtmasından hız sabitleyiciye kadar yok yok. Biraz çok yakıyor diyebiliriz ama o da burada benzin nispeten ucuz olduğu için gözümüze batmıyor. Düşünün 2017 i20’den 2008 Santa Fe’ye binince eşekten inip ata binmişim gibi hissettim. Zamanda 9 yıl geri gideceğime 9 yıl öne gitmiş gibi oldum. Fakirliğin gözü kör olsun, bizim oralarda i20'ye iyi araba diye biniyoruz.</p>
+</div>
 
 ## Araba nasıl seçilir?
 

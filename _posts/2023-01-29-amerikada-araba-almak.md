@@ -71,7 +71,6 @@ Birincisi bunu yapan sigorta şirketi az olduğu için fiyat seçeneğiniz az. �
 3. Arabayı seçtikten sonra yapılacaklar (ruhsat vb.)
 4. Nakit ve kredi kullanımı
 
-<br>
 
 ## 1. Araba nereden alınır?
 
@@ -233,4 +232,4 @@ Sevmediğim yönleri şunlar: Birincisi arabanın fiyatının yarısını kirala
 
  Buradaki problem şu: KREDİ SKORU. Evet dostlar, Amerika’ya yeni geldiyseniz kredi skorunuz maalesef yok. Benim bu üçüncü gelişim, ilkinde bir su parkında 3 ay maaşlı çalıştım, ikincisinde bir senelik j1 ile bir üniversiteye doktora sırası araştırmacı olarak geldim. İlk iki gelişimde ev tuttum, kiralar, faturalar ödedim. Banka hesapları açtım. İkinci gelişimde kredi kartı çıkardım, ödemelerini düzgün yaptım. Yine de burada kredi skorum sıfır çıkıyordu. Dealer abiler sağ olsunlar hemen moral verip: “Having no credit is better than having bad credit” (hiç kredi skorunun olmaması kötü skora sahip olmaktan iyidir) diye moral veriyorlar, yardımcı olmaya çalışıyorlar ama sonra size sunabilecekleri seçenekler çok az ve yüksek faizli. Bu nedenle kredi kullanamadan aracımı nakit aldım. Şimdi bu yazıyı yazarken kredi puanıma (FICO score) baktım da Ocak 2023 itibariyle 634 fair olmuş. Acaba bir mal varlığı mı edinmek gerekiyordu, arabayı aldık diye mi oldu? Neyse as bayrakları as as as.
 
- Benden bu kadar dostlar. Sorularınız olursa yeşillendirebilirsiniz. 
+ Benden bu kadar dostlar. Sorularınız olursa yeşillendirebilirsiniz.

@@ -86,27 +86,27 @@ Bizdeki gibi markaların bayilerinden alabilirsiniz. Bunların temel amacı sıf
 <div class="notice--info">
 <i class="far fa-sticky-note"></i>  
 
-<p>Satış temsilcileriyle yaşadığım görüşmeler ilginç tecrübelerdi. Olaya resmen oyun gibi bakıp bir tiyatro sergiliyorlar. İş psikolojik savaşa dönüyor. Hayır garip olan bundan duyacağım rahatsızlığı düşünmüyor olmaları. Beni mi saf gördüler herkese mi böyleler bilemiyorum. Adamlara ne yaptığınızın farkındayım diye kibarca I am a Ph.D diyorum, üniversitede visiting assitant professor’um diyorum, yok hala saçma sapan hareketlere devam.
+<p>Satış temsilcileriyle yaşadığım görüşmeler ilginç tecrübelerdi. Olaya resmen oyun gibi bakıp bir tiyatro sergiliyorlar. İş psikolojik savaşa dönüyor. Hayır garip olan bundan duyacağım rahatsızlığı düşünmüyor olmaları. Beni mi saf gördüler herkese mi böyleler bilemiyorum. Adamlara ne yaptığınızın farkındayım diye kibarca I am a Ph.D diyorum, üniversitede visiting assitant professor’um diyorum, yok hala saçma sapan hareketlere devam.</p>
 
-Süreç şöyle işliyor. 3 kişilik bir ekip sizi karşılıyor.
+<p>Süreç şöyle işliyor. 3 kişilik bir ekip sizi karşılıyor.</p>
 
-Bir tanesi arka taraftaki göremediğiniz kişi. Buna yetkili abi diyelim.
+<p>Bir tanesi arka taraftaki göremediğiniz kişi. Buna yetkili abi diyelim.</p>
 
-İkincisi sizinle tüm konuşmaları yürüten satış temsilcisi. Buna yetkisiz abi diyelim. Bu abiye yetkisiz dememin sebebi tüm süreci yönettiği halde fiyat ve pazarlık aşamalarını yetkili abiye sormak zorunda olması.
+<p>İkincisi sizinle tüm konuşmaları yürüten satış temsilcisi. Buna yetkisiz abi diyelim. Bu abiye yetkisiz dememin sebebi tüm süreci yönettiği halde fiyat ve pazarlık aşamalarını yetkili abiye sormak zorunda olması.</p>
 
-Bir de yetkisiz abinin yanında duran daha yetkisiz asistanı var. Bu da stajyer gibi bir şey. Genelde getir götür işlerini yapıyor.
+<p>Bir de yetkisiz abinin yanında duran daha yetkisiz asistanı var. Bu da stajyer gibi bir şey. Genelde getir götür işlerini yapıyor.</p>
 
-Neyse yetkisiz abinin ve stajyerin bulunduğu odaya giriyorsunuz. Kahve ikramı, birbirini tanıma muhabbetleri güzel. Ooo reis Türkiyeli misin, hep merak etmişimdir, nasıl, gezmek için önerir misin falan soruları ve ilgileniyormuş gibi tavırlar başarılı. Sonra yetkisiz abi sizin ihtiyaçlarınızı ve beklentilerinizi dinleyip size birkaç araba öneriyor. Sinir bozucu süreç bundan sonra başlıyor.
+<p>Neyse yetkisiz abinin ve stajyerin bulunduğu odaya giriyorsunuz. Kahve ikramı, birbirini tanıma muhabbetleri güzel. Ooo reis Türkiyeli misin, hep merak etmişimdir, nasıl, gezmek için önerir misin falan soruları ve ilgileniyormuş gibi tavırlar başarılı. Sonra yetkisiz abi sizin ihtiyaçlarınızı ve beklentilerinizi dinleyip size birkaç araba öneriyor. Sinir bozucu süreç bundan sonra başlıyor.</p>
 
 
-Yetkisiz abi araba seçiminizi yaptıktan sonra bu arabaya ne verirdin diye soruyor. Hacı ben nereden bileyim piyasayı, daha yeni araba bakmaya başladım, arabanın fiyatı ne diyorum, olsun önce sen söyle diyor. Neyse bir fiyat söylüyorum, sonra beklememi rica ediyor.
+<p>Yetkisiz abi araba seçiminizi yaptıktan sonra bu arabaya ne verirdin diye soruyor. Hacı ben nereden bileyim piyasayı, daha yeni araba bakmaya başladım, arabanın fiyatı ne diyorum, olsun önce sen söyle diyor. Neyse bir fiyat söylüyorum, sonra beklememi rica ediyor.</p>
 
-Bu yetkisiz abi ve stajyer içeri gidiyorlar. Orada anladığım kadarıyla yetkili abi ile bir fiyat teklifine karar veriyorlar. Sonra yetkisiz abi ve stajyer gelip size bir fiyat teklifi yapıyor. Tabi ki yüksek. Fiyat yüksek diyorum, tekrar içeri gidiyorlar. Bir 5-10 dk sonra tekrar yeni bir teklifle dönüyorlar. Bu sürecin bir yerinde arabayı denemeniz yönünde tavsiyede bulunuyorlar. Zaten deneyeceğiz de fiyatı bir netleştirseydik. Neyse madem deneyeyim diyorsunuz. Sürdüğüm arabaların tamamı temizdi, haklarını yemeyeyim. İster istemez beğeniyorsunuz. Neyse içeri girip en fazla şu kadar verebilirim diyorum, tekrar içeri gidip son bir teklifle dönüyorlar. Bu süreç o kadar uzun sürüyor ki iyice sinir oluyorsunuz. Zaten gurbetteyim, beni yabancı görüp kazıklayabilirler diye şartlanmışsınız. Sizle oyun oynuyor olmaları insanı kesin kazıklanıyorum diye kıllandırıyor.
+<p>Bu yetkisiz abi ve stajyer içeri gidiyorlar. Orada anladığım kadarıyla yetkili abi ile bir fiyat teklifine karar veriyorlar. Sonra yetkisiz abi ve stajyer gelip size bir fiyat teklifi yapıyor. Tabi ki yüksek. Fiyat yüksek diyorum, tekrar içeri gidiyorlar. Bir 5-10 dk sonra tekrar yeni bir teklifle dönüyorlar. Bu sürecin bir yerinde arabayı denemeniz yönünde tavsiyede bulunuyorlar. Zaten deneyeceğiz de fiyatı bir netleştirseydik. Neyse madem deneyeyim diyorsunuz. Sürdüğüm arabaların tamamı temizdi, haklarını yemeyeyim. İster istemez beğeniyorsunuz. Neyse içeri girip en fazla şu kadar verebilirim diyorum, tekrar içeri gidip son bir teklifle dönüyorlar. Bu süreç o kadar uzun sürüyor ki iyice sinir oluyorsunuz. Zaten gurbetteyim, beni yabancı görüp kazıklayabilirler diye şartlanmışsınız. Sizle oyun oynuyor olmaları insanı kesin kazıklanıyorum diye kıllandırıyor.</p>
 
-En son bir tanesinde sinirlenip yetkisiz abiye madem sen fiyat veremiyorsun sürekli içeri gidip soruyorsun, içerdeki yetkili abi buraya gelsin de şu aralardaki beklemelerden kurtulalım diye çıkıştık. Yetkili abi de bunun üzerine geldi, normal bir insanmış.
+<p>En son bir tanesinde sinirlenip yetkisiz abiye madem sen fiyat veremiyorsun sürekli içeri gidip soruyorsun, içerdeki yetkili abi buraya gelsin de şu aralardaki beklemelerden kurtulalım diye çıkıştık. Yetkili abi de bunun üzerine geldi, normal bir insanmış.</p>
 
-Bir tanesinde sona çok yaklaşmıştım. Ford Fusion, 12.500$’den aşağı inmediler. Bence arabanın ederi 10.000$’dı. Almıyorum diyip çıktık. Üç saat sonra yetkisiz abiden telefonuma bir mesaj “biliyorum anlamsız ama sana çılgın bir şey söyleyeceğim, bu araba 10.000$ olursa alır mıydın?”, benim cevabim “10.000$ mı değil mi?”, onun cevabi “10.000$ olsa alır mıydın?”, benim cevabim “oğlum bak git”.
-</p>
+<p>Bir tanesinde sona çok yaklaşmıştım. Ford Fusion, 12.500$’den aşağı inmediler. Bence arabanın ederi 10.000$’dı. Almıyorum diyip çıktık. Üç saat sonra yetkisiz abiden telefonuma bir mesaj “biliyorum anlamsız ama sana çılgın bir şey söyleyeceğim, bu araba 10.000$ olursa alır mıydın?”, benim cevabim “10.000$ mı değil mi?”, onun cevabi “10.000$ olsa alır mıydın?”, benim cevabim “oğlum bak git”.</p>
+
 
 </div>
 

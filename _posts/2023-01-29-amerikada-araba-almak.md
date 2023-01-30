@@ -191,13 +191,13 @@ Arabayı bir dealer’dan (madde 1 – a, b veya c seçeneği) alırsanız DMV (
 
   ABD’ye yeni taşınmış bir Türk için puan toplayabileceğiniz seçenekler:
 
-  Vize ve I94’lü Pasaport: 3 puan
-  US Social Security Card (SSN): 2 puan
-  Employee ID Card: 1 puan
-  US Health Insurance Card: 1 puan
-  Utility Bill: 1 puan
+  - Vize ve I94’lü Pasaport: 3 puan
+  - US Social Security Card (SSN): 2 puan
+  - Employee ID Card: 1 puan
+  - US Health Insurance Card: 1 puan
+  - Utility Bill: 1 puan
 
-  Şimdi pasaporttan 3 puan cepte.  Kalan 3 puanı toplamak turist vizesiyle pek mümkün değil. Benim gibi J1 ile geldiyseniz örneğin, SSN alacaksanız, geldiğiniz kurumun kartı (Employee ID) olacak, sağlık sigortası yaptırmanız zorunlu olduğu için (US Health Insurance Card)’da olacak, e bir telefon hattı’da alırsanız utility bill’de cepte. İstediğiniz kombinasyonla kalan 3 puanı tamamlayabilirsiniz.
+  Pasaporttan 3 puan cepte.  Kalan 3 puanı toplamak turist vizesiyle pek mümkün değil. Benim gibi J1 ile geldiyseniz örneğin, SSN alacaksanız, geldiğiniz kurumun kartı (Employee ID) olacak, sağlık sigortası yaptırmanız zorunlu olduğu için (US Health Insurance Card)’da olacak, e bir telefon hattı’da alırsanız utility bill’de cepte. İstediğiniz kombinasyonla kalan 3 puanı tamamlayabilirsiniz.
 
 Sigorta ve kimlik doğrulama işini hallettiğiniz anda sizin yapacağınız bir prosedür kalmıyor. Beklemeye geçiyorsunuz. Şimdi satıcının yapması gereken iki işlem var:
 

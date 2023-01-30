@@ -72,8 +72,6 @@ Birincisi bunu yapan sigorta şirketi az olduğu için fiyat seçeneğiniz az. �
 4. Nakit ve kredi kullanımı
 
 <br>
-<br>
-
 
 ## 1. Araba nereden alınır?
 

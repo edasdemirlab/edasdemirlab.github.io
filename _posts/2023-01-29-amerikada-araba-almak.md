@@ -81,11 +81,14 @@ Birincisi bunu yapan sigorta şirketi az olduğu için fiyat seçeneğiniz az. �
 
 Bizdeki gibi markaların bayilerinden alabilirsiniz. Bunların temel amacı sıfır araba satmak olsa da birçoğu ikinci el araba satışı da yapar.
 
-Artısı: Güvenilir olmaları. Buradan alacağınız ikinci el arabalar genelde eli yüzü düzgün ve az kilometreli (az mil yapmış) olacağı için sonradan başınızın derde girme ihtimali düşüktür. Ayrıca ekstra ödeme yapmaksızın belirli bir süre veya km için örneğin 6 ay veya 10.000 km gibi (hangisi önce gelirse) bir garanti de veriyorlar.
+**Artısı:** Güvenilir olmaları. Buradan alacağınız ikinci el arabalar genelde eli yüzü düzgün ve az kilometreli (az mil yapmış) olacağı için sonradan başınızın derde girme ihtimali düşüktür. Ayrıca ekstra ödeme yapmaksızın belirli bir süre veya km için örneğin 6 ay veya 10.000 km gibi (hangisi önce gelirse) bir garanti de veriyorlar.
 
-Eksisi: Fiyatlar olması gerekenden 25% daha fazla. Daha kötüsü ise satış temsilcilerinin sizinle oyun oynamaya çalışmasının yarattığı kesin kazıklanıyorum hissi.
+**Eksisi:** Fiyatlar olması gerekenden 25% daha fazla. Daha kötüsü ise satış temsilcilerinin sizinle oyun oynamaya çalışmasının yarattığı kesin kazıklanıyorum hissi.
 
-Satış temsilcileriyle yaşadığım görüşmeler ilginç tecrübelerdi. Olaya resmen oyun gibi bakıp bir tiyatro sergiliyorlar. İş psikolojik savaşa dönüyor. Hayır garip olan bundan duyacağım rahatsızlığı düşünmüyor olmaları. Beni mi saf gördüler herkese mi böyleler bilemiyorum. Adamlara ne yaptığınızın farkındayım diye kibarca I am a Ph.D diyorum, üniversitede visiting assitant professor’um diyorum, yok hala saçma sapan hareketlere devam.
+<div class="notice--info">
+<i class="far fa-sticky-note"></i>  
+
+<p>Satış temsilcileriyle yaşadığım görüşmeler ilginç tecrübelerdi. Olaya resmen oyun gibi bakıp bir tiyatro sergiliyorlar. İş psikolojik savaşa dönüyor. Hayır garip olan bundan duyacağım rahatsızlığı düşünmüyor olmaları. Beni mi saf gördüler herkese mi böyleler bilemiyorum. Adamlara ne yaptığınızın farkındayım diye kibarca I am a Ph.D diyorum, üniversitede visiting assitant professor’um diyorum, yok hala saçma sapan hareketlere devam.
 
 Süreç şöyle işliyor. 3 kişilik bir ekip sizi karşılıyor.
 
@@ -105,6 +108,9 @@ Bu yetkisiz abi ve stajyer içeri gidiyorlar. Orada anladığım kadarıyla yetk
 En son bir tanesinde sinirlenip yetkisiz abiye madem sen fiyat veremiyorsun sürekli içeri gidip soruyorsun, içerdeki yetkili abi buraya gelsin de şu aralardaki beklemelerden kurtulalım diye çıkıştık. Yetkili abi de bunun üzerine geldi, normal bir insanmış.
 
 Bir tanesinde sona çok yaklaşmıştım. Ford Fusion, 12.500$’den aşağı inmediler. Bence arabanın ederi 10.000$’dı. Almıyorum diyip çıktık. Üç saat sonra yetkisiz abiden telefonuma bir mesaj “biliyorum anlamsız ama sana çılgın bir şey söyleyeceğim, bu araba 10.000$ olursa alır mıydın?”, benim cevabim “10.000$ mı değil mi?”, onun cevabi “10.000$ olsa alır mıydın?”, benim cevabim “oğlum bak git”.
+</p>
+
+</div>
 
 Sonuç olarak eğer çıldırmamayı başarır ve sakin kalırsanız buradaki arabalar temiz, yılı yeni ve km’si düşük. Ellerinde de çok seçenek oluyor. Bayiden almanın verdiği güven de var. Ancak satış süreci bence çok rahatsız edici. Ayrıca fiyatlar da %25pahalı. Ben de bu nedenlerle bayiden almadım.
 

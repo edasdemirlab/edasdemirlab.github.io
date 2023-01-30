@@ -159,7 +159,7 @@ Ben bu seçeneği hiç düşünmedim çünkü ABD’ye yeni taşınmış olmam v
 <p>Aldığım araç 2008, 220.000km’de Hyundai Santa Fe. Fiyatı 7500$. Yılı eski, km’si çok falan derken çok da para harcamak istemediğim için arabayı aldım. Fiyatı TR’de sarı sitedeki 1994 opel corsa fiyatı.  Türkiye’de 2017 Hyundai i20 aracım var. Biraz da Hyundai olması sıcak hissettirdi. Şimdiye kadar (3 ayı devirdik) araçtan çok memnunuz. İnşallah bu yazıyı okuyan siz sevgili suserların da nazarı değmez. SUV sınıfındaki birçok arabadan daha yüksek. Sürüş konforu muhteşem. 2008 araba ama Sunroof’undan deri koltuğuna, koltuk ısıtmasından hız sabitleyiciye kadar yok yok. Biraz çok yakıyor diyebiliriz ama o da burada benzin nispeten ucuz olduğu için gözümüze batmıyor. Düşünün 2017 i20’den 2008 Santa Fe’ye binince eşekten inip ata binmişim gibi hissettim. Zamanda 9 yıl geri gideceğime 9 yıl öne gitmiş gibi oldum. Fakirliğin gözü kör olsun, bizim oralarda i20'ye iyi araba diye biniyoruz.</p>
 </div>
 
-## Araba nasıl seçilir?
+## 2. Araba nasıl seçilir?
 
 Genel olarak TR’de nasıl seçiyorsanız öyle seçilir. Arabalardan anlıyorsanız 1-0 öndesiniz. Anlamıyorsanız iş biraz şansa kalacak. Konumuzun ikinci el araba olduğunu unutmadan aşağıdakiler benim Amerika özelindeki kişisel tavsiyelerimdir:
 

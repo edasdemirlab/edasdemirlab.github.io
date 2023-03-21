@@ -35,7 +35,7 @@ tags:
 
 Bölümümüzün öğrencilerinden son zamanlarda sıklıkla aldığım bir soru var: *"Veri Bilimci olmak istiyorum, bana bir yol haritası çizer misiniz?"* Öğrencilerdeki motivasyon hoşuma gittiği için gelen mesajları özenle ve keyifle cevaplamaya çalışıyorum. Tabi cevap verdikçe cevaplarımın içeriği zenginleşti. Bir süredir hem aynı soruya her defasında ayrı cevap vermenin yarattığı verimsizliği ortadan kaldırmak (işte örnek bir Endüstri Mühendisi) hem de bu soruya cevap arayan diğer Endüstri Mühendisliği öğrencilerine faydalı olabilmek için bu yazıyı yazmaya fırsat kolluyordum. Nihayet bu konudaki görüşlerimi ve yönlendirmelerimi bu yazıda derli toplu hale getirebildim.
 
-![veri-bilimci-olmak](/assets/images/postimages/datascienceletter/artificial-intelligence-3706562_1920.jpg){: .align-center .erdi_width_30}
+![veri-bilimci-olmak](/assets/images/postimages/datascienceletter/technology-6701404_1920.jpg){: .align-right .erdi_width_30}
 
 Veri Bilimci sıfatının son on yılda ulaştığı pozitif algı gerçekten takdire şayan. Sanki içerdiği yöntem ve araçlar daha önce yokmuşçasına ve her şey Veri Bilimi terimimin ortaya çımasıyla başlamışçasına hepimizde bir heyecan uyandırıyor. Çok akıllıca seçilmiş bir isim öbeği olduğunu tartışmaya gerek yok. "Veri" zaten günümüz karar verme süreçlerinin göz bebeği. Yanına "Bilim" eklendiği zaman da iyice havalı oluyor.
 

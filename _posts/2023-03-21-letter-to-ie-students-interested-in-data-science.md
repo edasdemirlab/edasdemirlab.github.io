@@ -18,7 +18,7 @@ header:
   teaser: "/assets/images/postimages/datascienceletter/digitization-4770296_1920.jpg"
 
 categories:
-  - Egitimler
+  - Tutorials
 tags:
   - Data Science
   - Industrial Engineering

@@ -9,10 +9,10 @@ share: true
 related: true
 show_date: true
 toc: false
-toc_label: "Content"
+toc_label: "İçindekiler"
 toc_icon: "file-alt"
 toc_sticky: "false"
-excerpt: "Bölümümüzün öğrencilerinden son zamanlarda sıklıkla aldığım bir soru var: *"Veri Bilimci olmak istiyorum, bana bir yol haritası çizer misiniz?"* Bir süredir hem aynı soruya her defasında ayrı cevap vermenin yarattığı verimsizliği ortadan kaldırmak (işte örnek bir Endüstri Mühendisi) hem de bu soruya cevap arayan diğer Endüstri Mühendisliği öğrencilerine faydalı olabilmek için bu yazıyı yazmaya fırsat kolluyordum. Nihayet bu konudaki görüşlerimi ve yönlendirmelerimi bu yazıda derli toplu hale getirebildim."
+excerpt: "Bölümümüzün öğrencilerinden son zamanlarda sıklıkla aldığım bir soru var: *"Veri Bilimci olmak istiyorum, bana bir yol haritası çizer misiniz?"* Bir süredir hem aynı soruya her defasında ayrı cevap vermenin yarattığı verimsizliği ortadan kaldırmak (işte örnek bir Endüstri Mühendisi) hem de bu soruya cevap arayan diğer Endüstri Mühendisliği öğrencilerine faydalı olabilmek için bu yazıyı yazmaya fırsat kolluyordum."
 
 header:
   teaser: "/assets/images/postimages/datascienceletter/digitization-4770296_1920.jpg"

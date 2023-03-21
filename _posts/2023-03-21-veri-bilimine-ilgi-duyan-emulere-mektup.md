@@ -31,7 +31,7 @@ tags:
   - edX
 ---
 
-[Türkçe oku](/egitimler/veri-bilimine-ilgi-duyan-emulere-mektup/){: .btn  .btn--large .btn--primary} [Read in English](/tutorials/letter-to-ie-students-interested-in-data-science.md/){: .btn .btn--large .btn--inverse}
+[Türkçe oku](/egitimler/veri-bilimine-ilgi-duyan-emulere-mektup/){: .btn  .btn--large .btn--primary} [Read in English](/tutorials/letter-to-ie-students-interested-in-data-science/){: .btn .btn--large .btn--inverse}
 
 ![veri-bilimci-olmak](/assets/images/postimages/datascienceletter/technology-6701404_1920.jpg){: .align-right .erdi_width_30}
 

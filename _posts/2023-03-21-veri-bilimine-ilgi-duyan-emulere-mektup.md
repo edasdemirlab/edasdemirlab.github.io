@@ -77,7 +77,7 @@ Bir Endüstri Mühendisliği öğrencisi olarak Veri Bilimci olmak için gereken
 
 ![veri-bilimi-analitik](/assets/images/postimages/datascienceletter/graph-4737109_1920.jpg){: .align-left .erdi_width_30}
 
-Veri biliminin temelini oluşturan analitik yöntemler üç sınıf altında toplanır: Tanımlayıcı (descriptive), Tahmin Edici (predictive) ve Tavsiye Verici (Prescriptive). Ben bu üç sınıfı Veri Bilimcileri yaptıkları işe göre sınıflandırmak için de kullanıyorum. Benimkinden daha güzel ve ayrıntılı bir sınıflandırma için Cem Vardar'ın [Veri Bilimciliğinin Çeşitleri](https://decisionsciencelab.com/posts/veri-bilimciliginin-cesitleri/) yazısını da okuyabilirsiniz. Cem hocayla benzer bir bakış açımız olmakla birlikte o biraz daha spesifik bir sınıflandırma sunuyor.
+Veri biliminin temelini oluşturan analitik yöntemler üç sınıf altında toplanır: Tanımlayıcı (descriptive), Tahmin Edici (predictive) ve Tavsiye Verici (Prescriptive). Ben bu üç sınıfı Veri Bilimcileri yaptıkları işe göre sınıflandırmak için de kullanıyorum. Genel olarak da böyle bir sınıflandırmanın yapıldığını söyleyebiliriz. Benimkinden daha güzel ve ayrıntılı bir sınıflandırma için Cem Vardar'ın [Veri Bilimciliğinin Çeşitleri](https://decisionsciencelab.com/posts/veri-bilimciliginin-cesitleri/) yazısını da okuyabilirsiniz. Cem hocayla benzer bir bakış açımız olmakla birlikte o biraz daha spesifik bir sınıflandırma sunuyor.
 
 - **Tanımlayıcı (descriptive) Analitik** çalışanlar gözle ve el hesaplamalarıyla anlamlandıramadığımız verilerin özetlenmesi, görselleştirilmesi ve böylelikle bir sistemin mevcut performansın ortaya çıkarılması konularında uzmanlar.
 

@@ -175,4 +175,4 @@ If you enjoy web design and wish to expand your knowledge, I would recommend the
 1. [Introduction to HTML5](https://www.coursera.org/learn/html?specialization=web-design)
 2. [Introduction to CSS3](https://www.coursera.org/learn/introcss?specialization=web-design)
 3. [Interactivity with JavaScript](https://www.coursera.org/learn/javascript?specialization=web-design)
-4. [Advanced Styling with Responsive
+4. [Advanced Styling with Responsive](https://www.coursera.org/learn/responsivedesign?specialization=web-design)

@@ -76,7 +76,7 @@ As an Industrial Engineering student, you can gain the essential analytical foun
 
 Let's look at the above two items in more detail now:
 
-## (a) Temel bir analitik bilgisi oluşturmak ve uzmanlaşacak bir Veri Bilimi alanı seçmek
+## (a) Gaining a Fundamental Analytical Knowledge and Choosing a Data Science Field to Specialize In
 
 ![data-science-analytics](/assets/images/postimages/datascienceletter/graph-4737109_1920.jpg){: .align-left .erdi_width_30}
 

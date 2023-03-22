@@ -63,8 +63,8 @@ Peki ne oldu da 20 yılda işler 180 derece değişti? Cevap aslında basit: Ver
 
 Açıkçası bu soruya cevap vermek zor çünkü Veri Bilimci olmak uzun bir yolculuk ve net bir başlangıcı, güzergahı veya sonu yok. Üstelik bu terimin popülerleşmesi çok yakın tarihte olduğu için neleri kapsadığını tam olarak cevaplamak da zor. Çok farklı işler yapan insanlar kendilerini "Veri Bilimci" olarak tanımlıyor. Bu nedenle tüm yöntem ve araçları sıralayıp, bunları öğrenmelisin gibi bir yönlendirme yapmak mümkün değil. Bu konudaki görüşlerimi iki tavsiye altında yapmak isterim:
 
-  (a) Temel bir analitik bilgisi oluşturmalı ve sonrasında uzmanlaşmak istediğiniz Veri Bilimi alanını seçmelisiniz.
-  (b) Bilgisayarlarla aynı dili konuşabilmeli yani analitik bilgini bilgisayara aktarmanı sağlayacak programlama becerisini kazanmalısınız.
+- (a) Temel bir analitik bilgisi oluşturmalı ve sonrasında uzmanlaşmak istediğiniz Veri Bilimi alanını seçmelisiniz.
+- (b) Bilgisayarlarla aynı dili konuşabilmeli yani analitik bilgini bilgisayara aktarmanı sağlayacak programlama becerisini kazanmalısınız.
 
 Bir Endüstri Mühendisliği öğrencisi olarak Veri Bilimci olmak için gereken temel analitik alt yapıyı müfredatınızın doğal sürecinde kazanabilirsiniz ancak bu alt yapıyı hesaplama gücüyle birleştirecek programlama bilgisini ek çabayla edinmeniz gerekebilir. Veri Bilimci olmayı düşünmeniz ama kod yazmaktan korkmanız kadar dünyada abes çok az şey vardır. O yüzden programlama işine öncelik verip hesaplama teknolojileri ile aranızda olan bariyerin ortadan kaldırılması gerekir. Bir Veri Bilimci yeteneklerini ancak hesaplama gücünden faydalanarak sergileyebilir. Ayrıca sizin için gerekli olacak kadar programlama bilgisi edinme sürecinin başlangıç noktası, güzergahı ve sonu bellidir. Hızlı ve kısa bir şekilde yol alınılabilir. Bilgisayarla iletişime geçebildiğinizi görmek sizin bu konudaki hevesinizi artırır ve hızlı ilerlersiniz. Dünya kadar kaliteli yazılı, sesli ve görsel kaynak ücretsiz olarak mevcuttur ve kolayca erişilebilir. Dünyanın en iyi üniversitelerinin ve hocalarının dersleri erişilebilir durumdadır.
 

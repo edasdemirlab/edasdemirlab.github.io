@@ -15,7 +15,7 @@ toc_sticky: "false"
 excerpt: "I often get asked by students in our department, I want to be a Data Scientist - can you draw me a roadmap?. I am always delighted to answer these inquiries and have been doing so for some time. Doing so has enabled me to refine my responses and generate richer answer content. For a while, I have been seeking the opportunity to write this article - not only to reduce the inefficiency of providing different answers to the same question repeatedly, but also to be of assistance to other Industrial Engineering students who are searching for a response to this question. Ultimately, I was able to compile my thoughts and advice on this subject into this article."
 
 header:
-  teaser: "/assets/images/postimages/datascienceletter/digitization-4770296_1920.jpg"
+  teaser: "/assets/images/postimages/datascienceletter/technology-6701404_1920.jpg"
 
 categories:
   - Tutorials

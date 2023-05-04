@@ -82,6 +82,17 @@ Mathematical optimization, multi-objective optimization, data analytics, evoluti
 13.	Sonmez, V., Dasdemir, E., Testik, M. and Aydin, O. “A Simulation Based Decision Support Tool for Hospital Bed Capacity Planning,” Proceedings of Global Conference on Healthcare Systems Engineering (GCHSE) 2014, Istanbul/Turkey, 5-8 August, 2014.
 14.	Dasdemir, E., Oguz, M., Atalay, M., Bilgin, V., Testik, M. and Soydan, G. “Improving Hospital Billing Processes for Reducing Costs of Billing Errors,” European Network for Business and Industrial Statistics (ENBIS) 13 Conference, Ankara/Turkey. 15-19 September 2013.
 
+# Peer Review Records
+ - 4 OMEGA
+ - 3 Quality and Reliability Engineering International
+ - 2 IISE Transactions  
+ - 2 Journal of Operational Research Society
+ - 2 Journal of Business Analytics 
+ - 2 Socio-Economic Planning Sciences
+ - 1 Computers & Operations Research
+ - 1 Euro Journal on Decision Processes
+ - 1 Military OR
+
 ## Awards
 - "OMEGA - The International Journal of Management Science" 2022 Best Reviewer Award
 
@@ -162,6 +173,18 @@ Matematiksel optimizasyon, çok amaçlı optimizasyon, veri analitiği, evrimsel
 12.	Aydın, O., Shaygan, A. and Dasdemir, E. “A Cause and Effect Diagram and AHP Based Methodology for Selection of Quality Improvement Projects", European Network for Business and Industrial Statistics (ENBIS) 14 Conference, Linz, Avusturya, 21-25 Eylül 2014.
 13.	Sonmez, V., Dasdemir, E., Testik, M. and Aydin, O. “A Simulation Based Decision Support Tool for Hospital Bed Capacity Planning”, Proceedings of Global Conference on Healthcare Systems Engineering (GCHSE) 2014, İstanbul, Türkiye, 5-8 Ağustos, 2014.
 14.	Dasdemir, E., Oguz, M., Atalay, M., Bilgin, V., Testik, M. and Soydan, G. “Improving Hospital Billing Processes for Reducing Costs of Billing Errors”, European Network for Business and Industrial Statistics (ENBIS) 13 Conference, Ankara, Türkiye, 15-19 Eylül 2013.
+
+
+# Dergi Hakemlikleri
+ - 4 OMEGA
+ - 3 Quality and Reliability Engineering International
+ - 2 IISE Transactions  
+ - 2 Journal of Operational Research Society
+ - 2 Journal of Business Analytics
+ - 2 Socio-Economic Planning Sciences
+ - 1 Computers & Operations Research
+ - 1 Euro Journal on Decision Processes
+ - 1 Military OR
 
 ## Ödüller
 - "OMEGA - The International Journal of Management Science" dergisi 2022 "Best Reviewer Award" (yılın hakemi ödülü)

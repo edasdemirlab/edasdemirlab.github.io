@@ -82,12 +82,12 @@ Mathematical optimization, multi-objective optimization, data analytics, evoluti
 13.	Sonmez, V., Dasdemir, E., Testik, M. and Aydin, O. “A Simulation Based Decision Support Tool for Hospital Bed Capacity Planning,” Proceedings of Global Conference on Healthcare Systems Engineering (GCHSE) 2014, Istanbul/Turkey, 5-8 August, 2014.
 14.	Dasdemir, E., Oguz, M., Atalay, M., Bilgin, V., Testik, M. and Soydan, G. “Improving Hospital Billing Processes for Reducing Costs of Billing Errors,” European Network for Business and Industrial Statistics (ENBIS) 13 Conference, Ankara/Turkey. 15-19 September 2013.
 
-# Peer Review Records
+## Referee - Peer Review
  - 4 OMEGA
- - 3 Quality and Reliability Engineering International
+ - 4 Quality and Reliability Engineering International
  - 2 IISE Transactions  
  - 2 Journal of Operational Research Society
- - 2 Journal of Business Analytics 
+ - 2 Journal of Business Analytics
  - 2 Socio-Economic Planning Sciences
  - 1 Computers & Operations Research
  - 1 Euro Journal on Decision Processes
@@ -95,6 +95,9 @@ Mathematical optimization, multi-objective optimization, data analytics, evoluti
 
 ## Awards
 - "OMEGA - The International Journal of Management Science" 2022 Best Reviewer Award
+- TUBITAK 2219 Scholarship (2023)
+- YUDAB Scholarship (2019)
+- TUBITAK 2211 Scholarship (2015)
 
 ## Professional Certificates
 -	University of Michigan, Programming for Everybody (Python).
@@ -175,9 +178,9 @@ Matematiksel optimizasyon, çok amaçlı optimizasyon, veri analitiği, evrimsel
 14.	Dasdemir, E., Oguz, M., Atalay, M., Bilgin, V., Testik, M. and Soydan, G. “Improving Hospital Billing Processes for Reducing Costs of Billing Errors”, European Network for Business and Industrial Statistics (ENBIS) 13 Conference, Ankara, Türkiye, 15-19 Eylül 2013.
 
 
-# Dergi Hakemlikleri
+## Dergi Hakemlikleri
  - 4 OMEGA
- - 3 Quality and Reliability Engineering International
+ - 4 Quality and Reliability Engineering International
  - 2 IISE Transactions  
  - 2 Journal of Operational Research Society
  - 2 Journal of Business Analytics
@@ -188,6 +191,9 @@ Matematiksel optimizasyon, çok amaçlı optimizasyon, veri analitiği, evrimsel
 
 ## Ödüller
 - "OMEGA - The International Journal of Management Science" dergisi 2022 "Best Reviewer Award" (yılın hakemi ödülü)
+- TUBITAK 2219 Bursu (2023)
+- YUDAB Bursu (2019)
+- TUBITAK 2211 Bursu (2015)
 
 ## Profesyonel Sertifikalar
 -	University of Michigan, Programming for Everybody (Python).

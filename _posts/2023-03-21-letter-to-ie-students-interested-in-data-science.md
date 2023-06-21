@@ -82,7 +82,7 @@ Let's look at the above two items in more detail now:
 
 The core analytical methods that make up the foundation of data science can be grouped into three classes: descriptive, predictive, and prescriptive. I use these three classes to classify data scientists according to their work. In general, we can say that such a classification has already been made. For a better and more detailed classification than mine, you can read Cem Vardar's article [The Types of Data Science](https://decisionsciencelab.com/posts/veri-bilimciliginin-cesitleri/). Although the logic behind Cem's framework is similar to mine, he provides a more specific classification.
 
-- **Descriptive Analytics**: These people are experts in summarizing, visualizing, and thus uncovering the performance of a system from data that cannot be interpreted through visual and manual calculations. Predictive Analysts develop models that use past data to predict future outcomes.
+- **Descriptive Analytics**: These people are experts in summarizing, visualizing, and thus uncovering the performance of a system from data that cannot be interpreted through visual and manual calculations.
 
 - **Predictive Analytics**: These people develop models that use existing data to predict future outcomes. Machine learning studies are the pioneers of this field.  
 

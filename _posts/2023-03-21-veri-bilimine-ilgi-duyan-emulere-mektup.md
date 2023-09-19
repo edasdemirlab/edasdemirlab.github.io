@@ -41,13 +41,13 @@ Veri Bilimci sıfatının son on yılda ulaştığı pozitif algı gerçekten ta
 
 >"Ben Veri Bilimciyim, hem veri konusunda uzmanım hem de bunun bilimini yapıyorum, vay be, çok havalı olmalıyım."
 
-Önceleri profillerde istatistikçi, veri analisti, iş analisti, veri madencisi, uygulamalı matematikçi, yöneylem araştırmacısı ve makine öğrenmesi geliştiricisi gibi tanımlamalar görürken şimdi hepsinde ortak olarak sadece Veri Bilimci tanımını görüyoruz. Veri Bilimi çatısı altındaki yöntemler aslında farklı isimlerle çok eski yıllardan beri varlar. Bu yöntemlerin günümüzdeki kadar "havalı" olmamalarının temel nedeni veri miktarları, veriye ulaşım ve hesaplama teknolojilerindeki limitlerdi. Büyüyen veri miktarı ve gelişen hesaplama teknolojisi ile birlikte teorik bilgiler artık pratikte kolayca uygulanabilir hale geldi. Örneğin, 1940'larda temelleri atılan ve günümüzde Veri Bilimi'nin önemli alt dallarından biri olan Yöneylem Araştırması'na baktığımızda, 2000'lere kadar bir türlü istediği başarıyı yakalayamadığını görüyoruz. Hatta 1970'lerin sonunda Yöneylem Araştırması'nın bir geleceği olmadığında dair makale bile basmışlar:
+Önceleri profillerde istatistikçi, veri analisti, iş analisti, veri madencisi, uygulamalı matematikçi, yöneylem araştırmacısı ve makine öğrenmesi geliştiricisi gibi tanımlamalar görürken şimdi hepsinde ortak olarak sadece Veri Bilimci tanımını görüyoruz. Veri Bilimi çatısı altındaki yöntemler aslında farklı isimlerle çok eski yıllardan beri varlar. Bu yöntemlerin günümüzdeki kadar "havalı" olmamalarının temel nedeni veri miktarları, veriye ulaşım ve hesaplama teknolojilerindeki limitlerdi. Büyüyen veri miktarı ve gelişen hesaplama teknolojisi ile birlikte teorik bilgiler artık pratikte kolayca uygulanabilir hale geldi. Örneğin, 1940'larda temelleri atılan ve günümüzde Veri Bilimi'nin önemli alt dallarından biri olan Yöneylem Araştırması'na baktığımızda, 2000'lere kadar bir türlü istediği başarıyı yakalayamadığını görüyoruz. Hatta 1970'lerin sonunda Yöneylem Araştırması'na ciddi eleştiriler yöneltildiğini biliyoruz.
 
 - [Hall Jr, J. R., & Hess, S. W. (1978). OR/MS: Dead or dying? RX for survival. Interfaces, 8(3), 42-44.](https://doi.org/10.1287/inte.8.3.42)
 
 - [Ackoff, R. L. (1979). The future of operational research is past. Journal of the operational research society, 30(2), 93-104.](https://doi.org/10.1057/jors.1979.22)
 
- Ackhoff'un (1979) şu tespiti gerçekten şaşırtıcı:
+ Yöneylem Araştırmasının babası olarak bildiğimiz Ackoff'un (1979) şu tespiti gerçekten şaşırtıcı:
 
 >"Operations Research is dead even though it has yet to be buried. I also think there is little chance for its resurrection because there is so little understanding of the reasons for its demise."
 

@@ -49,7 +49,7 @@ We used to see job descriptions such as statistician, data analyst, business ana
 
 - [Ackoff, R. L. (1979). The future of operational research is past. Journal of the operational research society, 30(2), 93-104.](https://doi.org/10.1057/jors.1979.22)
 
-Ackhoff's (1979) following observation is truly interesting:
+The following observation of Ackoff (1979), known as the father of Operations Research, is truly interesting:
 
 >"Operations Research is dead even though it has yet to be buried. I also think there is little chance for its resurrection because there is so little understanding of the reasons for its demise."
 

@@ -63,7 +63,6 @@ I designed this course to include four weeks of guest lectures from Data Science
 - [Sami Serkan Özarık (Ph.D.)](https://www.linkedin.com/in/cem-vardar-70119514/), Data Scientist, Operations Research Scientist, Amazon, Luxembourg
 
 
-
 The first three talks were conducted remotely, and I recorded them and uploaded the videos to my [YouTube channel](https://www.youtube.com/@ErdiDasdemir/videos). I highly recommend them to those interested. Please note that the talks are in Turkish.
 
 <div class="video-container">
@@ -119,17 +118,18 @@ The lecture notes I used for EMU430-Data Analytics during the Fall Semester of 2
 - Final Exam
 
 # 2023-2024 Fall Term
-This term ended with very fuitful outcomes. Studentds did a great job in both individual and project team levels. Our [GitHub Classroom](https://classroom.github.com/) domain [EMU Hacettepe Analytics](https://github.com/emu-hacettepe-analytics/) includes individual student repositories and project repositories for fall 2023-2024 term.
+Students performed exceptionally well both on individual and team projects. Our [GitHub Classroom](https://classroom.github.com/) area, [EMU Hacettepe Analytics](https://github.com/emu-hacettepe-analytics/), hosts individual student and project pages for the Fall 2023-2024.
+## Individual Student Pages
+![Photo of Aykut Simsek](/assets/images/emu430photo/aykut-simsek.jpg){: .align-right .erdi_width_30}
 
-## Individual Pages
-Among 73 students, some students did an amazing job in personalizing their websites both in terms of design and content. Some great examples are below.
+Out of 73 students, several excelled in personalizing their websites with exceptional design and content. I'm highlighting three notable examples below. [Aykut Simsek](https://aykutsimsek.net/), who stood out for his meticulous attention to his website throughout the term, received a book from me as a gift at the semester's end (Aykut and I are in the photo).
 
 - [Aykut Şimşek - www.aykutsimsek.net](https://aykutsimsek.net/) (Aykut went more forward and obtained a domain name for his webpage.)
 - [Mert Kaplan's Analytics Lab - https://emu-hacettepe-analytics.github.io/emu430-fall2023-mer7kaplan/](https://emu-hacettepe-analytics.github.io/emu430-fall2023-mer7kaplan/)
 - [Sena Nur Enşici's Analytics Lab - https://emu-hacettepe-analytics.github.io/emu430-fall2023-ensici/](https://emu-hacettepe-analytics.github.io/emu430-fall2023-ensici/)
 
 ## Project Topics and Pages {#projects}
-The first four were my favorites, but most of them are worth exploring.
+The term projects resulted in unexpectedly high-quality work from the students. Below are the project pages and the issues they addressed. The first four were my favorites, but most are worth exploring.
 
 - [Team Safe İstanbul](https://emu-hacettepe-analytics.github.io/emu430-fall2023-team-team_safe_istanbul)
 This project aims to analyze three datasets from the Istanbul Metropolitan Municipality to identify districts at high risk of earthquakes. Using data on building numbers, construction years, floors, and population, the team will create a risk map and prioritize neighborhoods for earthquake preparedness.

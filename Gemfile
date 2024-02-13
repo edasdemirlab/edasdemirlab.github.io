@@ -17,8 +17,8 @@ gem "github-pages", group: :jekyll_plugins
 # dont forget to change theme to remote in _config.yml
 
 # Activate for for local hosting:
-#gem "jekyll"
-#gem "minimal-mistakes-jekyll"
+# gem "jekyll"
+# gem "minimal-mistakes-jekyll"
 
 
 
@@ -49,3 +49,7 @@ group :jekyll_plugins do
 end
 
 gem "webrick", "~> 1.8"
+
+gem "jekyll", "~> 3.9"
+
+gem "kramdown-parser-gfm", "~> 1.1"

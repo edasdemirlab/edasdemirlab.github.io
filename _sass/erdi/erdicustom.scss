@@ -29,3 +29,13 @@
 .erdi_width_50{
   width: 50%;
 }
+
+
+.video-container {
+  display: flex;
+}
+
+.video-column {
+  flex: 1;
+  margin: 0 10px; /* Adjust the margin as needed */
+}

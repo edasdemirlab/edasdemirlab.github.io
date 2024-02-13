@@ -11,6 +11,9 @@ main:
   - title: "Projects"
     titleTR: "Projeler"
     url: /projects/
+  - title: "Courses"
+    titleTR: "Dersler"
+    url: /courses/
   - title: "Posts"
     titleTR: "Yazılar"
     url: /date-archive/
@@ -34,6 +37,12 @@ projects:
     url: /rforeverybody/
   - title: "Mathematical Optimization for Everybody"
     url: /optimizationforeverybody/
+
+
+courses:
+  - title: EMU430- Data Analytics
+    url: /courses/emu430-data-analytics/
+
 
 
 

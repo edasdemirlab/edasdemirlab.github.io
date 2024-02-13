@@ -1,6 +1,6 @@
 ---
 title: EMU430- Data Analytics
-permalink: /courses/emu430-data-analytics
+permalink: /emu430-data-analytics/
 layout: single
 classes: wide
 author_profile: false

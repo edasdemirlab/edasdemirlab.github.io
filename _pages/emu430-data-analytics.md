@@ -110,13 +110,12 @@ The lecture notes I used for EMU430-Data Analytics during the Fall Semester of 2
 - [Week 6](/assets/docs/emu430/emu430-2023-fall-week-6.pdf)
 - [Week 7](/assets/docs/emu430/emu430-2023-fall-week-7.pdf)
 - [Week 8](/assets/docs/emu430/emu430-2023-fall-week-8.pdf)
-- Midterm
-- [Week 9](/assets/docs/emu430/emu430-2023-fall-week-9.pdf)
+- Week9- Midterm
 - [Week 10](/assets/docs/emu430/emu430-2023-fall-week-10.pdf)
 - [Week 11](/assets/docs/emu430/emu430-2023-fall-week-11.pdf)
 - [Week 12](/assets/docs/emu430/emu430-2023-fall-week-12.pdf)
 - [Week 13](/assets/docs/emu430/emu430-2023-fall-week-13.pdf)
-- Project Presentations ([see Project Topics and Pages](#projects))
+- [Week 14- Project Presentations](#projects)
 - Final Exam
 
 # 2023-2024 Fall Term

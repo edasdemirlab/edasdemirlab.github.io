@@ -163,7 +163,7 @@ Son olarak yukarıda bahsetmedim ama bir Veri Bilimcinin web programlama ve tasa
 
 Web tasarımı için HTML ve CSS, web programlama için ise PHP ve SQL'de temel bir bilgi seviyesi oluşturmayı hedefleyebilirsiniz.
 
-Web programlama ve SQL için Python'dakine benzer şekilde Dr. Chuck abimizin [Web Applications For Everybody](https://www.wa4e.com/) serisi çok iyi. Temel düzeyde HTML ve CSS ile tasarım bilgisi de veriyor. Eğer ekstra web tasarımı işlerine girmeyecekseniz bu kadar bilgi size yeterli olabilir. E
+Web programlama ve SQL için Python'dakine benzer şekilde Dr. Chuck abimizin [Web Applications For Everybody](https://www.wa4e.com/) serisi çok iyi. Temel düzeyde HTML ve CSS ile tasarım bilgisi de veriyor. Eğer ekstra web tasarımı işlerine girmeyecekseniz bu kadar bilgi size yeterli olabilir.
 
 Tüm içerik ücretsiz olarak burada var: [Web Applications For Everybody](https://www.wa4e.com/)
 
